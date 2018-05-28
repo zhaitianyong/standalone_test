@@ -1,0 +1,56 @@
+ 44 SER  O      48 LYS  H       1.80
+ 44 SER  O      48 LYS  N       1.80
+ 45 SER  O      49 GLU  H       1.80
+ 45 SER  O      49 GLU  N       1.80
+ 46 ILE  O      50 ILE  H       1.80
+ 46 ILE  O      50 ILE  N       1.80
+ 47 VAL  O      51 ILE  H       1.80
+ 47 VAL  O      51 ILE  N       1.80
+ 48 LYS  O      52 GLY  H       1.80
+ 48 LYS  O      52 GLY  N       1.80
+ 49 GLU  O      53 LYS  H       1.80
+ 49 GLU  O      53 LYS  N       1.80
+ 74 ARG  O      78 LEU  H       1.80
+ 74 ARG  O      78 LEU  N       1.80
+ 75 ARG  O      79 SER  H       1.80
+ 75 ARG  O      79 SER  N       1.80
+ 76 VAL  O      80 LYS  H       1.80
+ 76 VAL  O      80 LYS  N       1.80
+ 77 ASN  O      81 PHE  H       1.80
+ 77 ASN  O      81 PHE  N       1.80
+ 78 LEU  O      82 VAL  H       1.80
+ 78 LEU  O      82 VAL  N       1.80
+ 79 SER  O      83 GLU  H       1.80
+ 79 SER  O      83 GLU  N       1.80
+ 80 LYS  O      84 SER  H       1.80
+ 80 LYS  O      84 SER  N       1.80
+ 81 PHE  O      85 GLN  H       1.80
+ 81 PHE  O      85 GLN  N       1.80
+ 82 VAL  O      86 GLY  H       1.80
+ 82 VAL  O      86 GLY  N       1.80
+ 97 LYS  O     101 GLN  H       1.80
+ 97 LYS  O     101 GLN  N       1.80
+ 98 SER  O     102 LYS  H       1.80
+ 98 SER  O     102 LYS  N       1.80
+ 99 ASN  O     103 LEU  H       1.80
+ 99 ASN  O     103 LEU  N       1.80
+100 LEU  O     104 ASN  H       1.80
+100 LEU  O     104 ASN  N       1.80
+124 LEU  O     128 ARG  H       1.80
+124 LEU  O     128 ARG  N       1.80
+125 ASP  O     129 LYS  H       1.80
+125 ASP  O     129 LYS  N       1.80
+126 ASP  O     130 LYS  H       1.80
+126 ASP  O     130 LYS  N       1.80
+127 PHE  O     131 LEU  H       1.80
+127 PHE  O     131 LEU  N       1.80
+128 ARG  O     132 ARG  H       1.80
+128 ARG  O     132 ARG  N       1.80
+129 LYS  O     133 PHE  H       1.80
+129 LYS  O     133 PHE  N       1.80
+130 LYS  O     134 TYR  H       1.80
+130 LYS  O     134 TYR  N       1.80
+131 LEU  O     135 MET  H       1.80
+131 LEU  O     135 MET  N       1.80
+132 ARG  O     136 VAL  H       1.80
+132 ARG  O     136 VAL  N       1.80

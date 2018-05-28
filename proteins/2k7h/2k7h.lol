@@ -1,0 +1,26 @@
+149 TYR  QE     32 LYS  HA      1.80
+149 TYR  QE     33 ALA  HA      0.00
+ 37 PHE  QD     38 LYS  HA      1.80
+ 37 PHE  QD     36 SER  HA      0.00
+ 37 PHE  QD     35 ASP  HA      0.00
+ 86 GLY  HA3    90 LEU  QD2     1.80
+ 86 GLY  HA3    90 LEU  QD1     0.00
+ 86 GLY  HA2    90 LEU  QD2     1.80
+ 86 GLY  HA2    90 LEU  QD1     0.00
+ 45 GLY  H      44 GLU  QG      1.80
+ 96 LYS  H      95 GLU  QB      1.80
+ 96 LYS  H     120 GLU  QB      0.00
+ 22 LEU  HA    146 ILE  QG2     1.80
+ 22 LEU  HA    146 ILE  QD1     0.00
+ 13 VAL  H     150 LEU  QD1     1.80
+ 13 VAL  H      18 LEU  QD2     0.00
+106 GLY  H     111 SER  QB      1.80
+106 GLY  H      15 PRO  QG      1.80
+ 72 SER  H      49 PRO  QB      1.80
+123 GLY  H     122 LYS  QG      1.80
+104 VAL  H      15 PRO  QB      1.80
+134 THR  H     135 GLY  QA      1.80
+ 44 GLU  H      45 GLY  QA      1.80
+ 44 GLU  H      52 ILE  QG1     1.80
+152 ALA  H     151 LEU  QD2     1.80
+152 ALA  H     151 LEU  QD1     0.00

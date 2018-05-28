@@ -1,0 +1,106 @@
+ 73 GLU  H      69 GLN  O       1.80
+ 69 GLN  H      73 GLU  O       1.80
+ 83 TRP  H      78 TRP  O       1.80
+ 78 TRP  H      83 TRP  O       1.80
+ 85 VAL  H      76 PHE  O       1.80
+ 76 PHE  H      85 VAL  O       1.80
+ 98 PHE  H      16 ILE  O       1.80
+ 16 ILE  H      98 PHE  O       1.80
+ 14 LYS  H     100 LEU  O       1.80
+100 LEU  H      14 LYS  O       1.80
+102 HIS  H      12 ILE  O       1.80
+ 12 ILE  H     102 HIS  O       1.80
+ 97 GLY  H      90 GLU  O       1.80
+ 90 GLU  H      97 GLY  O       1.80
+ 88 GLN  H      99 THR  O       1.80
+ 99 THR  H      88 GLN  O       1.80
+101 ILE  H      86 THR  O       1.80
+ 86 THR  H     101 ILE  O       1.80
+ 74 LEU  H      87 PHE  O       1.80
+ 87 PHE  H      74 LEU  O       1.80
+ 64 LYS  H      77 GLU  O       1.80
+ 77 GLU  H      64 LYS  O       1.80
+ 67 ALA  H      75 SER  O       1.80
+ 75 SER  H      67 ALA  O       1.80
+ 96 THR  H      18 LEU  O       1.80
+ 84 VAL  H     103 SER  O       1.80
+103 SER  O      84 VAL  O       1.80
+119 SER  O     123 ARG  H       1.80
+120 SER  O     124 GLY  H       1.80
+121 VAL  O     125 LYS  H       1.80
+122 VAL  O     126 MET  H       1.80
+123 ARG  O     127 ASP  H       1.80
+124 GLY  O     128 GLY  H       1.80
+125 LYS  O     129 GLY  H       1.80
+126 MET  O     130 TRP  H       1.80
+127 ASP  O     131 THR  H       1.80
+128 GLY  O     132 GLY  H       1.80
+129 GLY  O     133 ILE  H       1.80
+130 TRP  O     134 VAL  H       1.80
+131 THR  O     135 ASN  H       1.80
+132 GLY  O     136 GLU  H       1.80
+133 ILE  O     137 ARG  H       1.80
+134 VAL  O     138 LEU  H       1.80
+135 ASN  O     139 ARG  H       1.80
+136 GLU  O     140 LYS  H       1.80
+137 ARG  O     141 ALA  H       1.80
+138 LEU  O     142 VAL  H       1.80
+139 ARG  O     143 GLU  H       1.80
+140 LYS  O     144 GLU  H       1.80
+ 32 SER  O      36 ALA  H       1.80
+ 22 ILE  O      26 TRP  H       1.80
+ 23 GLN  O      27 GLU  H       1.80
+ 24 LYS  O      28 THR  H       1.80
+ 73 GLU  H      69 GLN  O       1.80
+ 69 GLN  H      73 GLU  O       1.80
+ 83 TRP  H      78 TRP  O       1.80
+ 78 TRP  H      83 TRP  O       1.80
+ 85 VAL  H      76 PHE  O       1.80
+ 76 PHE  H      85 VAL  O       1.80
+ 98 PHE  H      16 ILE  O       1.80
+ 16 ILE  H      98 PHE  O       1.80
+ 14 LYS  H     100 LEU  O       1.80
+100 LEU  H      14 LYS  O       1.80
+102 HIS  H      12 ILE  O       1.80
+ 12 ILE  H     102 HIS  O       1.80
+ 97 GLY  H      90 GLU  O       1.80
+ 90 GLU  H      97 GLY  O       1.80
+ 88 GLN  H      99 THR  O       1.80
+ 99 THR  H      88 GLN  O       1.80
+101 ILE  H      86 THR  O       1.80
+ 86 THR  H     101 ILE  O       1.80
+ 74 LEU  H      87 PHE  O       1.80
+ 87 PHE  H      74 LEU  O       1.80
+ 64 LYS  H      77 GLU  O       1.80
+ 77 GLU  H      64 LYS  O       1.80
+ 67 ALA  H      75 SER  O       1.80
+ 75 SER  H      67 ALA  O       1.80
+ 96 THR  H      18 LEU  O       1.80
+ 84 VAL  H     103 SER  O       1.80
+103 SER  O      84 VAL  O       1.80
+119 SER  O     123 ARG  H       1.80
+120 SER  O     124 GLY  H       1.80
+121 VAL  O     125 LYS  H       1.80
+122 VAL  O     126 MET  H       1.80
+123 ARG  O     127 ASP  H       1.80
+124 GLY  O     128 GLY  H       1.80
+125 LYS  O     129 GLY  H       1.80
+126 MET  O     130 TRP  H       1.80
+127 ASP  O     131 THR  H       1.80
+128 GLY  O     132 GLY  H       1.80
+129 GLY  O     133 ILE  H       1.80
+130 TRP  O     134 VAL  H       1.80
+131 THR  O     135 ASN  H       1.80
+132 GLY  O     136 GLU  H       1.80
+133 ILE  O     137 ARG  H       1.80
+134 VAL  O     138 LEU  H       1.80
+135 ASN  O     139 ARG  H       1.80
+136 GLU  O     140 LYS  H       1.80
+137 ARG  O     141 ALA  H       1.80
+138 LEU  O     142 VAL  H       1.80
+139 ARG  O     143 GLU  H       1.80
+140 LYS  O     144 GLU  H       1.80
+ 32 SER  O      36 ALA  H       1.80
+ 22 ILE  O      26 TRP  H       1.80
+ 23 GLN  O      27 GLU  H       1.80
+ 24 LYS  O      28 THR  H       1.80

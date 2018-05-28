@@ -1,0 +1,2 @@
+addpath ./Main/
+addpath ./Auxiliary/

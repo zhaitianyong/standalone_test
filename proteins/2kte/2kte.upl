@@ -1,0 +1,1886 @@
+136 GLU  HB3   138 LEU  H       5.50
+ 19 GLU  HA     20 ALA  H       3.56
+141 ALA  HA    143 GLU  H       4.67
+136 GLU  H     136 GLU  HB2     3.46
+ 68 VAL  HA     74 LEU  HA      4.29
+141 ALA  HA    142 VAL  HA      4.73
+132 GLY  QA    136 GLU  HB2     5.50
+136 GLU  HB2   137 ARG  HA      5.50
+136 GLU  HB3   137 ARG  HA      4.45
+137 ARG  QD    141 ALA  HA      5.50
+ 26 TRP  HB2    71 PRO  QB      4.14
+ 19 GLU  HA     95 LYS  QG      5.22
+140 LYS  QB    141 ALA  HA      3.81
+ 18 LEU  HB2    25 VAL  HB      5.48
+ 68 VAL  QG2    74 LEU  HA      5.50
+ 19 GLU  HA     95 LYS  QB      3.70
+ 18 LEU  HB3    19 GLU  HA      5.24
+136 GLU  HB2   139 ARG  QB      4.77
+ 19 GLU  HA     20 ALA  QB      4.87
+ 50 GLN  HB3    65 VAL  H       3.99
+ 69 GLN  HB2    70 ALA  H       4.35
+ 50 GLN  HB2    65 VAL  H       4.58
+125 LYS  QD    127 ASP  H       5.01
+ 69 GLN  HB2    73 GLU  H       4.34
+ 81 GLU  HB2    83 TRP  HZ2     4.15
+ 81 GLU  HB3    83 TRP  HZ2     4.15
+125 LYS  H     125 LYS  QD      3.99
+102 HIS  HA    102 HIS  HD2     3.87
+ 24 LYS  H      26 TRP  HB3     5.06
+ 27 GLU  HB2    28 THR  H       4.41
+ 19 GLU  HA    139 ARG  QG      5.50
+ 48 GLU  HB2    49 GLY  HA3     5.50
+ 50 GLN  HA     50 GLN  HB3     2.90
+125 LYS  HA    125 LYS  QD      4.06
+125 LYS  QD    129 GLY  QA      4.37
+125 LYS  QD    125 LYS  HE3     2.98
+ 26 TRP  HB3    71 PRO  QB      4.05
+  6 GLU  QB      6 GLU  QG      2.47
+125 LYS  HB3   125 LYS  QD      2.69
+ 19 GLU  QG    139 ARG  QG      3.53
+ 46 LEU  HA     46 LEU  HG      3.84
+ 47 LYS  HB3    50 GLN  HB2     3.70
+ 46 LEU  HA     68 VAL  QG2     4.07
+ 26 TRP  HB2    96 THR  QG2     5.41
+ 47 LYS  HB2    50 GLN  HB2     4.33
+ 47 LYS  QG     50 GLN  HB2     4.71
+ 69 GLN  HB3    70 ALA  QB      3.81
+122 VAL  QG1   125 LYS  QD      4.16
+ 46 LEU  HA     68 VAL  QG1     4.07
+ 92 LEU  HG     95 LYS  QD      5.19
+ 48 GLU  HB3    68 VAL  H       3.56
+ 69 GLN  H      69 GLN  HB2     3.75
+ 84 VAL  H     102 HIS  HA      5.50
+ 48 GLU  HB3    49 GLY  H       5.10
+ 48 GLU  HB2    49 GLY  H       5.38
+ 30 SER  HA     46 LEU  HA      5.03
+ 17 THR  HB     95 LYS  QD      3.91
+ 92 LEU  HA     93 GLY  HA2     4.55
+101 ILE  HB    102 HIS  HA      4.87
+ 16 ILE  H      16 ILE  HG13    5.32
+ 16 ILE  H      16 ILE  HG12    5.32
+101 ILE  H     101 ILE  HG12    4.42
+ 87 PHE  HA     87 PHE  QE      4.64
+ 87 PHE  HA     87 PHE  QD      3.49
+  8 ALA  HA    112 ILE  HA      5.18
+ 99 THR  HB    101 ILE  HG13    4.83
+ 74 LEU  HB3    87 PHE  HA      5.50
+ 87 PHE  HA     88 GLN  HB2     4.73
+ 74 LEU  H      74 LEU  HG      5.07
+ 21 PRO  HG2    25 VAL  H       4.65
+ 74 LEU  HG     87 PHE  QD      4.82
+ 26 TRP  HD1    74 LEU  HG      5.50
+ 74 LEU  HG     87 PHE  QE      5.50
+ 87 PHE  QE    100 LEU  HG      5.23
+ 21 PRO  HG2    24 LYS  H       3.97
+ 21 PRO  HG3    24 LYS  H       4.46
+ 87 PHE  QD    100 LEU  HG      4.36
+ 30 SER  QB     74 LEU  HG      5.37
+ 74 LEU  HG     76 PHE  HB3     5.50
+ 74 LEU  HG     87 PHE  HB2     5.50
+ 87 PHE  HA     88 GLN  HB3     5.50
+ 14 LYS  HB3   100 LEU  HG      5.23
+ 88 GLN  HB2   101 ILE  HG12    5.21
+ 20 ALA  QB     21 PRO  HG3     4.27
+138 LEU  H     138 LEU  HG      4.57
+ 74 LEU  QD1    76 PHE  QD      3.29
+138 LEU  HG    139 ARG  H       4.89
+ 20 ALA  HA     21 PRO  HD3     4.05
+ 30 SER  QB     74 LEU  QD1     5.01
+138 LEU  HA    138 LEU  HG      4.07
+ 21 PRO  HD2    24 LYS  QB      4.19
+ 20 ALA  QB     21 PRO  HD3     3.35
+ 21 PRO  HD2   142 VAL  QG1     5.50
+ 18 LEU  HG    142 VAL  QG1     4.82
+ 35 ILE  QD1    74 LEU  QD1     4.56
+ 92 LEU  HG     93 GLY  H       4.77
+125 LYS  H     125 LYS  HG2     4.43
+125 LYS  H     125 LYS  HG3     5.08
+140 LYS  H     140 LYS  HG3     5.40
+140 LYS  H     140 LYS  HG2     3.99
+ 74 LEU  QD2    76 PHE  QD      3.29
+ 92 LEU  HG     96 THR  HA      5.40
+125 LYS  HG2   129 GLY  QA      4.25
+125 LYS  HA    125 LYS  HG3     3.78
+ 30 SER  HA     74 LEU  QD2     4.38
+ 17 THR  HB     95 LYS  QG      3.93
+125 LYS  HG2   125 LYS  HE2     3.59
+125 LYS  HG3   125 LYS  HE2     3.45
+125 LYS  HG3   125 LYS  HE3     3.72
+ 92 LEU  HG     95 LYS  QE      5.11
+ 74 LEU  HB3    74 LEU  QD2     3.49
+ 47 LYS  H      47 LYS  QG      4.26
+ 47 LYS  H      65 VAL  QG2     4.07
+ 87 PHE  QD    100 LEU  QD1     4.82
+ 87 PHE  QE    100 LEU  QD1     4.26
+ 98 PHE  QE    100 LEU  QD1     4.57
+138 LEU  QD2   139 ARG  H       4.86
+ 65 VAL  QG2    76 PHE  HA      4.32
+ 95 LYS  QG     97 GLY  HA2     4.79
+134 VAL  HA    138 LEU  QD2     4.90
+ 65 VAL  QG2    76 PHE  HB3     4.71
+ 47 LYS  QG     48 GLU  HG2     4.60
+ 47 LYS  HB3    47 LYS  QG      2.51
+ 14 LYS  HB3   100 LEU  QD1     5.44
+138 LEU  QB    138 LEU  QD2     3.64
+100 LEU  QD1   134 VAL  QG1     4.32
+ 35 ILE  QD1    74 LEU  QD2     4.56
+ 65 VAL  QG2    76 PHE  QD      5.11
+ 65 VAL  HA     65 VAL  QG2     3.60
+ 34 GLY  HA3    35 ILE  HA      4.63
+ 34 GLY  HA2    35 ILE  HA      4.82
+ 18 LEU  HB2    96 THR  HB      4.18
+ 47 LYS  HB3    65 VAL  QG2     4.41
+ 34 GLY  HA3    35 ILE  HG13    4.80
+100 LEU  QD2   102 HIS  H       5.50
+134 VAL  H     134 VAL  QG2     3.87
+122 VAL  QG1   123 ARG  H       4.23
+ 74 LEU  HB3    75 SER  H       4.38
+ 74 LEU  H      74 LEU  HB2     4.18
+100 LEU  QD2   101 ILE  H       4.15
+134 VAL  QG2   135 ASN  H       4.13
+129 GLY  QA    131 THR  H       4.66
+132 GLY  QA    136 GLU  H       4.15
+ 92 LEU  H      93 GLY  HA2     5.09
+122 VAL  H     122 VAL  QG1     3.77
+ 87 PHE  QE    100 LEU  QD2     4.26
+ 87 PHE  QD    100 LEU  QD2     4.82
+ 93 GLY  HA2    95 LYS  H       4.72
+ 93 GLY  HA3    95 LYS  H       5.35
+ 98 PHE  QE    100 LEU  QD2     4.57
+129 GLY  QA    130 TRP  HB2     4.81
+134 VAL  HA    134 VAL  QG2     3.37
+122 VAL  HA    122 VAL  QG1     3.24
+124 GLY  QA    127 ASP  HB3     5.02
+ 74 LEU  HB3    87 PHE  HB2     5.35
+ 74 LEU  HB3    87 PHE  HB3     5.35
+ 65 VAL  QG1    76 PHE  HB3     4.71
+124 GLY  QA    127 ASP  HB2     5.02
+100 LEU  QD2   102 HIS  HB2     5.12
+124 GLY  QA    125 LYS  QD      5.50
+ 14 LYS  HB3   100 LEU  QD2     5.44
+100 LEU  HB3   134 VAL  QG2     4.65
+ 18 LEU  HB3   142 VAL  QG1     4.65
+ 28 THR  QG2    34 GLY  HA2     3.32
+ 74 LEU  HB3    74 LEU  QD1     3.49
+100 LEU  QD2   134 VAL  QG1     4.32
+100 LEU  QD2   101 ILE  QD1     4.95
+100 LEU  QD1   134 VAL  QG2     4.32
+100 LEU  QD2   134 VAL  QG2     4.32
+ 17 THR  QG2    97 GLY  H       4.77
+ 25 VAL  QG2    26 TRP  H       4.13
+ 17 THR  QG2    18 LEU  H       3.52
+ 66 LEU  H      66 LEU  QQD     3.76
+ 17 THR  QG2    96 THR  H       4.21
+ 17 THR  H      17 THR  QG2     4.26
+122 VAL  QG2   123 ARG  H       4.23
+ 65 VAL  H      65 VAL  QG1     4.12
+142 VAL  H     142 VAL  QG2     3.44
+ 66 LEU  QQD    67 ALA  H       4.39
+ 28 THR  QG2   142 VAL  H       4.22
+ 47 LYS  H      65 VAL  QG1     4.07
+ 28 THR  QG2    29 VAL  H       4.67
+ 65 VAL  QG1    76 PHE  QD      5.11
+ 28 THR  QG2    98 PHE  QE      5.50
+ 66 LEU  QQD    76 PHE  HA      4.57
+ 17 THR  HA     17 THR  QG2     4.10
+121 VAL  HA    121 VAL  QG2     3.59
+ 25 VAL  QG2    96 THR  HB      4.74
+ 17 THR  QG2    95 LYS  QE      4.18
+ 25 VAL  HA     25 VAL  QG2     3.28
+ 25 VAL  HA     25 VAL  QG1     3.28
+ 66 LEU  QQD    77 GLU  HG2     4.07
+ 66 LEU  QQD    77 GLU  HG3     4.07
+ 17 THR  QG2    95 LYS  QG      2.74
+ 17 THR  QG2    95 LYS  QD      3.14
+122 VAL  QG2   125 LYS  QD      4.16
+ 18 LEU  HB2    25 VAL  QG1     4.26
+ 18 LEU  HB3   142 VAL  QG2     3.42
+ 28 THR  QG2   142 VAL  QG1     3.24
+ 28 THR  QG2   138 LEU  HG      4.27
+ 28 THR  QG2    29 VAL  QG1     3.54
+ 18 LEU  H      97 GLY  HA2     4.69
+ 67 ALA  QB     68 VAL  H       3.10
+ 67 ALA  QB     75 SER  H       4.71
+134 VAL  H     134 VAL  QG1     3.87
+ 72 THR  QG2    73 GLU  H       4.41
+ 27 GLU  H      31 THR  QG2     4.71
+ 67 ALA  H      67 ALA  QB      3.00
+ 72 THR  H      72 THR  QG2     3.88
+ 68 VAL  QG1    74 LEU  HA      5.50
+ 98 PHE  HA     99 THR  QG2     5.50
+ 17 THR  HA     97 GLY  HA2     4.43
+103 SER  HA    104 GLY  HA3     4.70
+ 66 LEU  QQD    77 GLU  HA      5.50
+ 83 TRP  HA    104 GLY  HA2     4.76
+ 31 THR  HA     31 THR  QG2     3.34
+ 72 THR  HA     72 THR  QG2     4.03
+ 30 SER  HA     31 THR  QG2     4.96
+ 27 GLU  HA     31 THR  QG2     3.35
+ 25 VAL  QG1    96 THR  HB      4.74
+ 97 GLY  HA2    98 PHE  HB3     4.74
+ 25 VAL  HA     28 THR  QG2     3.91
+ 84 VAL  HB    104 GLY  HA3     5.50
+ 27 GLU  HB2    31 THR  QG2     3.70
+ 27 GLU  HB3    31 THR  QG2     3.70
+ 90 GLU  HB3    97 GLY  HA2     4.15
+ 48 GLU  HB2    67 ALA  QB      4.17
+ 66 LEU  HB3    67 ALA  QB      3.46
+ 46 LEU  HG     68 VAL  QG2     3.78
+ 46 LEU  HG     68 VAL  QG1     3.78
+ 92 LEU  HB2    97 GLY  HA2     5.50
+ 49 GLY  HA2    65 VAL  QG2     4.84
+ 17 THR  QG2    97 GLY  HA2     4.50
+ 31 THR  QG2    35 ILE  HG13    5.09
+ 96 THR  QG2    97 GLY  H       3.49
+ 18 LEU  HB2    19 GLU  H       4.70
+ 86 THR  QG2    87 PHE  H       3.37
+ 96 THR  QG2    98 PHE  H       4.10
+ 18 LEU  H      96 THR  QG2     4.26
+ 17 THR  H      17 THR  HB      3.65
+100 LEU  H     100 LEU  HB3     3.84
+ 96 THR  H      96 THR  QG2     4.52
+ 85 VAL  H      85 VAL  QG2     3.47
+ 99 THR  H      99 THR  QG2     3.95
+ 85 VAL  H      85 VAL  QG1     3.47
+121 VAL  H     121 VAL  QG1     3.85
+ 98 PHE  QD    100 LEU  HB2     4.13
+ 15 SER  HA     99 THR  QG2     4.43
+ 86 THR  QG2    87 PHE  HA      4.74
+ 86 THR  QG2    88 GLN  HA      5.12
+ 86 THR  HA     86 THR  QG2     3.83
+ 96 THR  HA     96 THR  QG2     4.08
+ 99 THR  HA     99 THR  QG2     3.93
+ 20 ALA  QB    143 GLU  HA      4.49
+ 85 VAL  HA     85 VAL  QG2     3.45
+ 85 VAL  HA     85 VAL  QG1     3.45
+ 20 ALA  QB     21 PRO  HD2     3.32
+121 VAL  HA    121 VAL  QG1     3.59
+ 49 GLY  HA2    65 VAL  HB      4.43
+ 48 GLU  HG3    49 GLY  HA2     5.50
+ 25 VAL  HB     96 THR  QG2     3.59
+ 47 LYS  HB3    49 GLY  HA3     5.22
+ 14 LYS  HB3   100 LEU  HB2     4.10
+ 20 ALA  QB    142 VAL  HB      3.10
+ 18 LEU  HB2    18 LEU  QD1     3.89
+ 20 ALA  QB    139 ARG  QG      5.50
+ 88 GLN  HB2    99 THR  QG2     4.24
+ 49 GLY  HA2    65 VAL  QG1     4.84
+ 16 ILE  QD1    17 THR  HB      4.58
+100 LEU  HB3   134 VAL  QG1     4.65
+ 20 ALA  QB    142 VAL  QG2     2.66
+ 18 LEU  HB2    18 LEU  QD2     3.89
+ 18 LEU  HB3    20 ALA  QB      3.47
+ 18 LEU  HB2    25 VAL  QG2     4.26
+138 LEU  H     138 LEU  QD1     4.33
+ 29 VAL  QG1    87 PHE  QE      3.96
+ 29 VAL  QG1    30 SER  H       4.41
+ 29 VAL  QG1    98 PHE  QE      3.01
+ 98 PHE  QE    138 LEU  QD1     3.99
+134 VAL  HA    138 LEU  QD1     4.90
+138 LEU  HA    138 LEU  QD1     4.21
+ 25 VAL  HA     28 THR  HB      3.83
+ 29 VAL  QG1    35 ILE  HA      4.81
+138 LEU  QB    138 LEU  QD1     3.64
+ 28 THR  HB    142 VAL  QG1     4.27
+ 28 THR  HB     29 VAL  QG1     3.96
+ 29 VAL  QG1   138 LEU  HG      3.99
+ 29 VAL  QG1   138 LEU  QD2     3.58
+ 29 VAL  QG1   138 LEU  QD1     3.58
+101 ILE  QG2   102 HIS  H       3.63
+ 75 SER  HB2    76 PHE  H       4.44
+ 75 SER  HB3    76 PHE  H       4.44
+ 66 LEU  H      66 LEU  HB2     3.88
+ 12 ILE  H     101 ILE  QG2     4.41
+ 25 VAL  HA     28 THR  H       3.50
+ 66 LEU  HB2    76 PHE  HA      4.78
+ 13 THR  HA    101 ILE  QG2     4.44
+101 ILE  QG2   102 HIS  HA      4.99
+101 ILE  HA    101 ILE  QG2     4.07
+ 86 THR  HB    101 ILE  QG2     4.25
+ 66 LEU  HB2    76 PHE  HB2     5.50
+ 98 PHE  HB3   138 LEU  QB      5.11
+ 98 PHE  HB2   138 LEU  QB      5.50
+ 75 SER  HB2    86 THR  QG2     3.87
+101 ILE  QG2   101 ILE  HG13    3.50
+ 65 VAL  QG1    76 PHE  HB2     4.27
+ 16 ILE  QG2    98 PHE  HB2     3.93
+ 66 LEU  HB3    66 LEU  QQD     3.22
+ 66 LEU  HB2    66 LEU  QQD     2.87
+ 26 TRP  H      29 VAL  QG2     4.71
+ 69 GLN  H      70 ALA  QB      5.50
+ 75 SER  H      75 SER  HB3     4.07
+103 SER  HB3   104 GLY  H       4.14
+ 81 GLU  H     115 ALA  QB      5.46
+ 35 ILE  H      35 ILE  QG2     4.10
+ 36 ALA  H      36 ALA  QB      3.12
+ 70 ALA  QB     72 THR  H       4.18
+ 83 TRP  HZ2   115 ALA  QB      2.90
+ 22 ILE  HA     24 LYS  H       4.73
+ 83 TRP  HH2   115 ALA  QB      3.45
+ 29 VAL  H      29 VAL  QG2     2.91
+ 29 VAL  QG2    87 PHE  QD      3.52
+ 35 ILE  QG2    87 PHE  QE      4.80
+ 35 ILE  QG2    76 PHE  QE      3.47
+ 29 VAL  QG2    98 PHE  QD      3.48
+ 26 TRP  HA     29 VAL  QG2     3.90
+ 81 GLU  HA    115 ALA  QB      5.11
+138 LEU  HA    141 ALA  QB      3.42
+122 VAL  HA    125 LYS  HE3     4.02
+122 VAL  HA    125 LYS  HB3     3.81
+122 VAL  HA    125 LYS  QD      3.78
+112 ILE  HB    115 ALA  QB      3.98
+ 69 GLN  HB2    70 ALA  QB      5.36
+122 VAL  HA    122 VAL  QG2     3.24
+ 75 SER  HB3    86 THR  QG2     3.87
+ 28 THR  HA     31 THR  QG2     4.76
+ 28 THR  HA    141 ALA  QB      3.82
+ 65 VAL  QG2    76 PHE  HB2     4.27
+ 28 THR  HA    142 VAL  QG1     5.17
+ 28 THR  QG2   141 ALA  QB      3.13
+141 ALA  QB    142 VAL  QG2     4.20
+ 29 VAL  QG2   138 LEU  HG      5.25
+ 12 ILE  QG2   102 HIS  H       4.63
+ 65 VAL  HA     66 LEU  H       3.21
+127 ASP  H     127 ASP  HB2     3.68
+ 12 ILE  QG2    14 LYS  H       4.66
+111 VAL  H     111 VAL  QG2     3.99
+ 12 ILE  QG2    13 THR  H       3.77
+ 28 THR  HA     34 GLY  H       4.64
+127 ASP  HB3   128 GLY  H       4.35
+127 ASP  HB2   128 GLY  H       4.35
+ 12 ILE  QG2   130 TRP  HD1     3.57
+ 95 LYS  H      95 LYS  QE      4.61
+134 VAL  HA    139 ARG  H       5.50
+ 65 VAL  HA     76 PHE  HA      3.73
+ 65 VAL  HA     66 LEU  HA      4.47
+ 12 ILE  QG2   127 ASP  HA      4.64
+ 49 GLY  HA2    65 VAL  HA      5.50
+ 12 ILE  QG2   102 HIS  HB3     4.03
+ 25 VAL  HA     28 THR  HA      5.19
+ 65 VAL  HA     76 PHE  HB2     3.85
+ 65 VAL  HA     76 PHE  HB3     3.89
+ 92 LEU  HB3    95 LYS  QE      3.55
+ 12 ILE  QG2   102 HIS  HB2     4.11
+ 22 ILE  HA     25 VAL  HB      4.64
+ 65 VAL  HA     77 GLU  HB2     4.86
+134 VAL  HA    138 LEU  QB      3.99
+ 22 ILE  HA     96 THR  QG2     3.53
+  8 ALA  QB    112 ILE  HA      3.89
+ 95 LYS  QG     95 LYS  QE      2.58
+ 95 LYS  QB     95 LYS  QE      2.80
+134 VAL  HA    134 VAL  QG1     3.37
+ 28 THR  HA     28 THR  QG2     3.15
+ 65 VAL  HA     65 VAL  QG1     3.60
+134 VAL  HA    138 LEU  HG      5.50
+ 28 THR  HA     29 VAL  QG1     4.74
+ 16 ILE  QG2    18 LEU  H       4.95
+ 91 ASP  H      91 ASP  HB3     3.65
+111 VAL  H     111 VAL  HB      3.77
+ 16 ILE  QG2    17 THR  H       4.02
+ 34 GLY  H      35 ILE  HA      5.50
+121 VAL  HA    124 GLY  H       4.19
+ 30 SER  H      35 ILE  HA      5.50
+ 92 LEU  HB3    95 LYS  H       4.28
+ 16 ILE  QG2    98 PHE  QE      3.60
+  8 ALA  HA    111 VAL  HB      5.50
+111 VAL  HB    119 SER  HA      5.50
+ 16 ILE  QG2    98 PHE  HB3     3.69
+ 30 SER  QB     74 LEU  QD2     5.01
+ 86 THR  QG2   101 ILE  HB      4.07
+ 29 VAL  QG2    30 SER  QB      4.51
+ 35 ILE  HA     35 ILE  QG2     3.49
+ 35 ILE  HA     35 ILE  HG12    3.87
+ 35 ILE  HA     35 ILE  QD1     4.20
+140 LYS  QE    141 ALA  HA      4.82
+119 SER  HA    122 VAL  HA      5.50
+119 SER  HA    122 VAL  HB      3.99
+119 SER  QB    122 VAL  HB      4.70
+136 GLU  QG    140 LYS  QE      5.50
+ 74 LEU  HG     87 PHE  HB3     5.50
+ 11 ASP  QB    101 ILE  QG2     4.69
+ 16 ILE  H      16 ILE  QD1     4.68
+ 16 ILE  QD1    98 PHE  H       5.06
+ 87 PHE  H     101 ILE  QD1     4.31
+140 LYS  QE    143 GLU  H       4.75
+  7 ASN  HB3     8 ALA  H       4.22
+  7 ASN  HB2     8 ALA  H       4.22
+ 16 ILE  QD1    98 PHE  QE      5.50
+112 ILE  HA    112 ILE  QG2     3.77
+140 LYS  QB    140 LYS  QE      3.78
+ 16 ILE  HB     16 ILE  QD1     3.19
+ 16 ILE  QD1    18 LEU  HB2     4.80
+112 ILE  HB    112 ILE  QD1     3.21
+140 LYS  HG2   140 LYS  QE      4.01
+112 ILE  QG2   115 ALA  QB      3.70
+  8 ALA  QB    112 ILE  QG2     3.50
+ 16 ILE  QD1    18 LEU  HG      4.30
+101 ILE  H     101 ILE  QD1     3.53
+100 LEU  HA    101 ILE  QD1     4.97
+112 ILE  HA    112 ILE  QD1     4.24
+ 86 THR  HB    101 ILE  QD1     3.68
+ 99 THR  HB    101 ILE  QD1     3.95
+ 88 GLN  HG2   101 ILE  QD1     4.24
+ 88 GLN  HG3   101 ILE  QD1     4.24
+101 ILE  HB    101 ILE  QD1     3.09
+112 ILE  QD1   115 ALA  QB      3.54
+112 ILE  QG2   112 ILE  QD1     2.88
+101 ILE  QG2   101 ILE  QD1     3.25
+100 LEU  QD1   101 ILE  QD1     4.95
+ 48 GLU  H      48 GLU  HG3     3.19
+ 48 GLU  H      48 GLU  HG2     3.37
+ 48 GLU  HG3    49 GLY  H       4.76
+ 48 GLU  HG2    49 GLY  H       5.40
+ 48 GLU  HG3    67 ALA  HA      5.50
+ 21 PRO  HA     22 ILE  HA      4.36
+ 21 PRO  HA     96 THR  HB      5.37
+ 48 GLU  HA     48 GLU  HG2     4.03
+ 48 GLU  HB3    68 VAL  HA      5.19
+143 GLU  HB2   143 GLU  QG      2.70
+143 GLU  HB3   143 GLU  QG      3.00
+ 48 GLU  HB3    48 GLU  HG3     3.00
+139 ARG  QG    143 GLU  QG      4.46
+ 47 LYS  QG     48 GLU  HG3     4.64
+  8 ALA  QB    112 ILE  HB      4.90
+ 21 PRO  HA     22 ILE  QG2     4.69
+137 ARG  HA    140 LYS  H       4.78
+ 33 GLU  QG     34 GLY  H       4.14
+ 44 PHE  HA     45 GLN  H       3.08
+120 SER  HA    123 ARG  HA      5.50
+119 SER  HA    120 SER  HA      5.09
+137 ARG  HA    140 LYS  HG3     4.74
+137 ARG  HA    140 LYS  HG2     5.50
+137 ARG  HA    141 ALA  QB      5.50
+ 12 ILE  HA     12 ILE  QG2     3.83
+ 64 LYS  QB     77 GLU  H       4.77
+ 27 GLU  H      27 GLU  HG2     4.64
+ 27 GLU  H      27 GLU  HG3     4.64
+139 ARG  HA    142 VAL  H       4.62
+139 ARG  HA    143 GLU  H       4.69
+ 33 GLU  HA     33 GLU  QG      3.38
+137 ARG  QD    138 LEU  HA      4.52
+ 19 GLU  QG    139 ARG  HA      5.50
+ 64 LYS  QB     77 GLU  HB2     3.98
+138 LEU  QB    139 ARG  HA      4.01
+139 ARG  HA    139 ARG  QG      3.63
+ 95 LYS  QB     95 LYS  QD      4.12
+ 13 THR  HA    100 LEU  HB3     4.71
+ 27 GLU  HG2    31 THR  QG2     4.56
+ 27 GLU  HG3    31 THR  QG2     4.56
+139 ARG  HA    142 VAL  QG1     3.63
+ 90 GLU  HG3    92 LEU  HG      4.13
+ 90 GLU  HG2    92 LEU  HG      4.13
+ 13 THR  HA    102 HIS  H       4.33
+ 23 GLN  HA     26 TRP  H       3.93
+ 19 GLU  H      19 GLU  QG      3.85
+ 48 GLU  HA     68 VAL  H       4.18
+ 13 THR  HA     14 LYS  H       2.94
+ 14 LYS  HB3   100 LEU  H       4.67
+140 LYS  HA    143 GLU  H       3.71
+ 34 GLY  H      35 ILE  QD1     5.50
+125 LYS  HA    128 GLY  H       4.65
+ 47 LYS  H      47 LYS  HB2     3.92
+ 35 ILE  QD1    87 PHE  QE      5.05
+ 35 ILE  QD1    76 PHE  QD      4.73
+ 35 ILE  QD1    76 PHE  QE      4.16
+ 13 THR  HA    101 ILE  HA      4.51
+ 48 GLU  HA     49 GLY  HA3     4.83
+ 23 GLN  HA     24 LYS  HA      4.79
+ 23 GLN  HA     26 TRP  HB3     3.83
+ 26 TRP  HB3    27 GLU  HA      4.70
+139 ARG  HA    140 LYS  HA      4.81
+ 23 GLN  HA     26 TRP  HB2     4.08
+125 LYS  HA    125 LYS  HE2     5.30
+ 23 GLN  HA     23 GLN  HG2     3.82
+ 48 GLU  HA     68 VAL  HB      4.66
+ 48 GLU  HA     48 GLU  HG3     3.87
+ 35 ILE  QD1    44 PHE  HB2     4.25
+ 35 ILE  QD1    44 PHE  HB3     4.25
+125 LYS  HA    125 LYS  HG2     3.50
+140 LYS  HA    140 LYS  QB      2.65
+ 13 THR  HA    101 ILE  HG13    4.77
+ 13 THR  HA     13 THR  QG2     3.30
+ 48 GLU  HA     67 ALA  QB      5.33
+140 LYS  HA    140 LYS  HG2     3.09
+ 14 LYS  HB2   100 LEU  HB3     4.08
+ 14 LYS  HB3   100 LEU  HB3     3.67
+ 47 LYS  HB2    47 LYS  QG      2.79
+ 35 ILE  HB     35 ILE  QD1     3.32
+ 22 ILE  QG2    23 GLN  HA      4.18
+ 12 ILE  QG2    14 LYS  HB2     4.08
+ 47 LYS  HB3    65 VAL  QG1     4.41
+ 35 ILE  QG2    35 ILE  QD1     3.03
+142 VAL  H     143 GLU  HA      5.06
+142 VAL  QG2   143 GLU  HA      4.56
+  6 GLU  HA      8 ALA  H       4.67
+136 GLU  QG    140 LYS  H       4.07
+ 98 PHE  HA     98 PHE  QE      4.98
+ 50 GLN  HA     51 GLU  HA      4.58
+ 90 GLU  HB3    97 GLY  HA3     4.29
+136 GLU  QG    140 LYS  HA      4.99
+143 GLU  HA    143 GLU  QG      3.77
+ 62 PRO  QB     63 CYS  HA      4.70
+110 GLU  QB    110 GLU  QG      2.83
+ 88 GLN  HB3    98 PHE  HA      5.28
+ 96 THR  QG2    98 PHE  HA      4.78
+136 GLU  QG    140 LYS  HG2     3.39
+ 20 ALA  QB     24 LYS  HA      5.14
+ 30 SER  HA     74 LEU  QD1     4.38
+ 90 GLU  HB3    92 LEU  HG      5.00
+ 30 SER  HA     35 ILE  QD1     4.04
+138 LEU  HA    138 LEU  QD2     4.21
+ 73 GLU  HA     87 PHE  H       5.12
+ 21 PRO  HB2    23 GLN  H       4.38
+ 85 VAL  H      85 VAL  HB      3.91
+125 LYS  HB3   126 MET  H       4.18
+125 LYS  HB2   126 MET  H       4.45
+ 21 PRO  HB2    24 LYS  H       4.81
+ 21 PRO  HB3    24 LYS  H       4.81
+ 73 GLU  HA     88 GLN  HA      3.72
+ 15 SER  HA     99 THR  HA      4.03
+ 72 THR  HB     73 GLU  HA      4.72
+ 23 GLN  HA     23 GLN  HG3     3.82
+122 VAL  HA    125 LYS  HB2     4.55
+122 VAL  HB    125 LYS  HE3     5.01
+125 LYS  HB2   125 LYS  HE3     4.58
+125 LYS  HB3   125 LYS  HE3     4.24
+ 73 GLU  HA     73 GLU  HG2     3.81
+ 73 GLU  HA     73 GLU  HG3     3.81
+ 24 LYS  HA     24 LYS  QG      3.66
+  6 GLU  HA      6 GLU  QB      3.00
+ 73 GLU  HA     86 THR  QG2     4.66
+ 16 ILE  QG2    98 PHE  HA      4.77
+ 15 SER  HA     16 ILE  QG2     3.85
+101 ILE  QG2   103 SER  HA      5.09
+ 21 PRO  HB2    22 ILE  QG2     3.84
+101 ILE  QG2   102 HIS  HB3     5.06
+100 LEU  QD1   102 HIS  HB2     5.12
+ 66 LEU  H      76 PHE  HA      3.07
+ 23 GLN  H      24 LYS  QB      4.64
+ 64 LYS  H      77 GLU  HB2     4.34
+121 VAL  HB    122 VAL  H       4.08
+140 LYS  H     140 LYS  QB      2.83
+142 VAL  HB    143 GLU  H       4.23
+124 GLY  H     125 LYS  HB3     4.72
+ 76 PHE  HA     76 PHE  QD      4.12
+121 VAL  H     122 VAL  HB      4.89
+ 75 SER  HA     86 THR  HA      4.21
+140 LYS  QE    144 GLU  HA      4.28
+137 ARG  HA    140 LYS  QB      3.49
+ 21 PRO  HD2   142 VAL  HB      4.39
+ 76 PHE  HA     77 GLU  HB2     5.32
+ 74 LEU  QD2    75 SER  HA      4.85
+ 75 SER  HA     86 THR  QG2     4.42
+ 74 LEU  QD1    75 SER  HA      4.85
+ 65 VAL  QG1    76 PHE  HA      4.32
+ 88 GLN  HB2    89 LEU  H       4.71
+ 88 GLN  H      88 GLN  HB3     4.16
+ 88 GLN  HB2    99 THR  H       4.56
+ 41 PRO  HB3    42 ASN  H       4.56
+ 49 GLY  H      65 VAL  HB      4.64
+ 29 VAL  HB     87 PHE  QE      4.13
+ 29 VAL  HB     87 PHE  QD      4.01
+ 29 VAL  HB     98 PHE  QE      3.86
+ 35 ILE  HG12   76 PHE  QE      4.64
+ 98 PHE  QD    134 VAL  HB      5.50
+130 TRP  HZ3   134 VAL  HB      5.50
+ 46 LEU  HA     47 LYS  HA      4.50
+ 48 GLU  HA     65 VAL  HB      4.50
+ 88 GLN  HB3    99 THR  HB      4.17
+ 88 GLN  HB2    99 THR  HB      3.78
+ 76 PHE  HA     77 GLU  HG2     5.47
+ 76 PHE  HA     77 GLU  HG3     5.47
+ 47 LYS  HA     48 GLU  HG3     5.08
+ 47 LYS  HA     48 GLU  HB3     4.77
+130 TRP  HB3   134 VAL  HB      5.50
+ 16 ILE  HB    135 ASN  HA      4.23
+ 50 GLN  HB2    65 VAL  HB      4.93
+135 ASN  HA    139 ARG  QB      5.50
+ 47 LYS  HA     47 LYS  QG      3.63
+ 86 THR  QG2    88 GLN  HB2     5.13
+ 88 GLN  HB2   101 ILE  HG13    5.14
+ 16 ILE  QD1   135 ASN  HA      3.64
+ 12 ILE  QG2   130 TRP  HB2     4.70
+ 12 ILE  QG2   130 TRP  HB3     4.72
+ 88 GLN  HB2   101 ILE  QD1     4.33
+102 HIS  H     103 SER  H       4.45
+101 ILE  HA    102 HIS  H       3.13
+102 HIS  H     102 HIS  HB3     3.87
+ 66 LEU  H      76 PHE  HB2     4.15
+102 HIS  H     102 HIS  HB2     3.99
+ 11 ASP  QB    102 HIS  H       5.50
+ 66 LEU  H      77 GLU  HB2     5.37
+ 65 VAL  HB     66 LEU  H       4.72
+101 ILE  HB    102 HIS  H       4.52
+101 ILE  HG13  102 HIS  H       4.80
+ 66 LEU  H      67 ALA  QB      5.09
+ 66 LEU  H      66 LEU  HB3     3.61
+100 LEU  QD1   102 HIS  H       5.50
+ 18 LEU  H      98 PHE  H       4.04
+ 97 GLY  H      98 PHE  H       4.25
+ 76 PHE  H      85 VAL  H       3.63
+ 66 LEU  H      75 SER  H       5.50
+ 69 GLN  H      73 GLU  H       4.83
+ 84 VAL  H     104 GLY  H       5.50
+110 GLU  H     111 VAL  H       4.46
+ 69 GLN  H      72 THR  H       5.50
+ 76 PHE  QD     85 VAL  H       5.04
+ 92 LEU  H      95 LYS  H       4.73
+ 15 SER  HA    100 LEU  H       3.84
+ 69 GLN  H      74 LEU  HA      3.59
+ 17 THR  HA     98 PHE  H       3.42
+ 99 THR  HA    100 LEU  H       3.00
+ 85 VAL  H     102 HIS  HA      5.40
+ 92 LEU  H      96 THR  HA      3.71
+ 68 VAL  HA     69 GLN  H       2.68
+ 69 GLN  HA     70 ALA  H       2.80
+ 91 ASP  HA     92 LEU  H       2.98
+ 97 GLY  HA2    98 PHE  H       3.29
+ 99 THR  HB    100 LEU  H       4.30
+ 68 VAL  HB     69 GLN  H       4.37
+ 69 GLN  H      69 GLN  QG      4.58
+ 98 PHE  H      98 PHE  HB3     3.48
+ 98 PHE  H      98 PHE  HB2     3.59
+ 91 ASP  HB2    92 LEU  H       4.73
+ 91 ASP  HB3    92 LEU  H       4.73
+ 69 GLN  H      69 GLN  HB3     3.89
+ 69 GLN  H      74 LEU  HB2     4.22
+ 69 GLN  HB3    70 ALA  H       3.05
+100 LEU  H     100 LEU  HB2     3.64
+110 GLU  H     110 GLU  QB      3.41
+ 92 LEU  H      92 LEU  HB2     3.51
+ 16 ILE  QG2    98 PHE  H       3.84
+ 70 ALA  H      70 ALA  QB      2.81
+ 92 LEU  H      96 THR  QG2     5.07
+ 92 LEU  H      92 LEU  HG      4.14
+100 LEU  H     100 LEU  QD1     5.11
+100 LEU  H     100 LEU  QD2     5.11
+ 89 LEU  H      90 GLU  H       4.53
+ 18 LEU  H      19 GLU  H       4.78
+ 91 ASP  H      97 GLY  H       5.42
+ 65 VAL  H      66 LEU  H       4.79
+ 88 GLN  H      89 LEU  H       4.59
+ 46 LEU  H      47 LYS  H       4.59
+ 47 LYS  H      48 GLU  H       4.52
+ 91 ASP  H      92 LEU  H       4.64
+ 73 GLU  HA     89 LEU  H       3.97
+ 88 GLN  HA     89 LEU  H       2.95
+ 17 THR  HA     18 LEU  H       2.98
+ 63 CYS  HA     79 ASP  H       3.93
+ 94 GLU  H      95 LYS  HA      4.60
+ 64 LYS  HA     65 VAL  H       3.08
+ 18 LEU  HA     19 GLU  H       3.14
+ 72 THR  HB     89 LEU  H       4.52
+ 72 THR  HA     89 LEU  H       4.08
+ 26 TRP  HA     26 TRP  HE1     5.24
+ 17 THR  HB     18 LEU  H       4.22
+ 47 LYS  HA     48 GLU  H       2.77
+ 78 TRP  HA     79 ASP  H       2.94
+ 90 GLU  HA     91 ASP  H       2.73
+ 50 GLN  HA     65 VAL  H       5.03
+ 18 LEU  H      96 THR  HB      4.17
+ 48 GLU  H      49 GLY  HA2     5.50
+ 65 VAL  H      76 PHE  HB2     4.73
+ 46 LEU  HA     47 LYS  H       2.94
+ 19 GLU  H     143 GLU  QG      4.85
+ 91 ASP  H      91 ASP  HB2     3.65
+ 65 VAL  H      65 VAL  HB      3.73
+ 47 LYS  H      65 VAL  HB      5.12
+ 47 LYS  H      68 VAL  HB      5.02
+ 19 GLU  H      19 GLU  HB3     3.68
+ 19 GLU  H      19 GLU  HB2     3.68
+ 19 GLU  H     139 ARG  QG      4.30
+ 88 GLN  HB3    89 LEU  H       3.57
+ 26 TRP  HE1    71 PRO  QB      4.49
+ 18 LEU  H      18 LEU  HB2     3.43
+ 18 LEU  H      18 LEU  QD1     4.16
+ 48 GLU  H      48 GLU  HB3     3.22
+ 47 LYS  HB3    48 GLU  H       3.70
+ 47 LYS  HB2    48 GLU  H       4.29
+ 47 LYS  QG     48 GLU  H       3.54
+ 90 GLU  HB2    91 ASP  H       4.58
+ 90 GLU  HB3    91 ASP  H       4.37
+ 64 LYS  QB     65 VAL  H       3.95
+ 47 LYS  H      47 LYS  HB3     3.58
+ 18 LEU  HG     19 GLU  H       5.05
+ 19 GLU  H     142 VAL  QG2     4.78
+ 18 LEU  H      18 LEU  QD2     4.16
+ 65 VAL  H      65 VAL  QG2     4.12
+ 47 LYS  H      68 VAL  QG2     4.80
+ 47 LYS  H      68 VAL  QG1     4.80
+101 ILE  H     102 HIS  H       4.50
+ 74 LEU  H      87 PHE  H       3.61
+ 74 LEU  H      89 LEU  H       5.50
+ 98 PHE  H      99 THR  H       4.53
+ 73 GLU  H      89 LEU  H       5.03
+ 19 GLU  H      20 ALA  H       4.10
+ 18 LEU  H      20 ALA  H       4.56
+103 SER  H     104 GLY  H       4.54
+ 87 PHE  H      88 GLN  H       4.48
+ 87 PHE  H     101 ILE  H       5.43
+ 74 LEU  H      75 SER  H       4.29
+ 88 GLN  H      99 THR  H       3.49
+ 70 ALA  H      73 GLU  H       5.05
+ 73 GLU  H      74 LEU  H       4.32
+ 20 ALA  H      96 THR  H       3.99
+121 VAL  H     123 ARG  H       4.32
+ 86 THR  H     103 SER  H       4.51
+137 ARG  H     138 LEU  H       3.74
+121 VAL  H     124 GLY  H       5.42
+102 HIS  HD2   103 SER  H       3.71
+ 87 PHE  H      87 PHE  QD      4.34
+ 87 PHE  QD    101 ILE  H       4.45
+ 22 ILE  H      24 LYS  H       4.81
+ 75 SER  HA     87 PHE  H       3.63
+ 73 GLU  HA     74 LEU  H       2.92
+ 15 SER  HA     99 THR  H       5.28
+102 HIS  HA    103 SER  H       3.12
+ 86 THR  HA     87 PHE  H       2.93
+ 13 THR  HA    101 ILE  H       5.32
+101 ILE  H     102 HIS  HA      5.50
+ 87 PHE  HA    101 ILE  H       4.24
+100 LEU  HA    101 ILE  H       3.01
+ 74 LEU  H      86 THR  HA      5.13
+ 98 PHE  HA     99 THR  H       2.86
+ 73 GLU  H      74 LEU  HA      4.89
+ 21 PRO  HA     22 ILE  H       3.10
+ 72 THR  HB     73 GLU  H       4.19
+119 SER  HA    121 VAL  H       4.71
+118 LYS  HA    121 VAL  H       5.50
+102 HIS  HB3   103 SER  H       4.80
+ 86 THR  HB     87 PHE  H       4.15
+134 VAL  HA    138 LEU  H       4.06
+137 ARG  QD    138 LEU  H       4.56
+ 86 THR  HB    101 ILE  H       4.67
+ 22 ILE  H      96 THR  HB      5.33
+ 99 THR  H      99 THR  HB      3.49
+ 87 PHE  HB2    99 THR  H       5.50
+ 87 PHE  HB3    99 THR  H       5.50
+ 20 ALA  H      96 THR  HB      4.01
+ 20 ALA  H      21 PRO  HD2     4.89
+121 VAL  H     122 VAL  HA      5.47
+102 HIS  HB2   103 SER  H       4.56
+137 ARG  HB3   138 LEU  H       4.02
+137 ARG  HB2   138 LEU  H       4.02
+ 21 PRO  HB3    22 ILE  H       3.95
+ 21 PRO  HB2    22 ILE  H       3.83
+ 98 PHE  HB3    99 THR  H       4.53
+ 98 PHE  HB2    99 THR  H       4.27
+ 73 GLU  H      73 GLU  HB2     3.69
+ 45 GLN  QG     46 LEU  H       4.36
+ 46 LEU  H      46 LEU  HB2     3.72
+121 VAL  H     121 VAL  HB      3.73
+ 85 VAL  HB    103 SER  H       5.39
+ 74 LEU  HB3    87 PHE  H       4.40
+ 74 LEU  HG     87 PHE  H       5.50
+ 87 PHE  H     101 ILE  HB      5.31
+138 LEU  H     138 LEU  QB      3.55
+138 LEU  H     139 ARG  QB      5.14
+138 LEU  H     141 ALA  QB      5.50
+101 ILE  H     101 ILE  HB      3.54
+101 ILE  H     101 ILE  HG13    3.91
+ 74 LEU  H      74 LEU  HB3     3.20
+ 88 GLN  HB3    99 THR  H       3.90
+ 69 GLN  HB3    73 GLU  H       3.40
+ 73 GLU  H      73 GLU  HB3     3.69
+ 46 LEU  H      46 LEU  HB3     3.72
+ 18 LEU  HB2    20 ALA  H       3.48
+101 ILE  QG2   103 SER  H       4.64
+100 LEU  HG    101 ILE  H       3.68
+ 22 ILE  H      22 ILE  QG2     3.33
+101 ILE  H     101 ILE  QG2     4.16
+ 74 LEU  H      74 LEU  QD2     4.91
+ 74 LEU  H      86 THR  QG2     4.17
+ 74 LEU  H      74 LEU  QD1     4.91
+ 20 ALA  H      20 ALA  QB      3.28
+121 VAL  H     121 VAL  QG2     3.85
+100 LEU  QD1   101 ILE  H       4.15
+138 LEU  H     138 LEU  QD2     4.33
+ 14 LYS  H     102 HIS  H       5.38
+ 12 ILE  H     102 HIS  H       4.03
+126 MET  H     127 ASP  H       3.71
+127 ASP  H     129 GLY  H       4.69
+ 14 LYS  H      15 SER  H       4.42
+  5 ASN  H       6 GLU  H       4.24
+120 SER  H     122 VAL  H       4.48
+119 SER  H     122 VAL  H       4.72
+125 LYS  H     127 ASP  H       5.27
+125 LYS  H     126 MET  H       3.35
+ 44 PHE  H      45 GLN  H       4.66
+ 45 GLN  H      46 LEU  H       4.52
+130 TRP  H     132 GLY  H       5.40
+127 ASP  H     128 GLY  H       3.85
+ 50 GLN  H      51 GLU  H       4.65
+  6 GLU  H       8 ALA  H       5.35
+133 ILE  H     136 GLU  H       5.14
+122 VAL  H     125 LYS  H       4.91
+121 VAL  H     122 VAL  H       3.22
+ 14 LYS  H      15 SER  HA      5.01
+ 14 LYS  H     101 ILE  HA      3.80
+ 12 ILE  H      13 THR  HA      5.35
+ 12 ILE  H     102 HIS  HA      5.50
+ 12 ILE  H     103 SER  HA      4.42
+ 12 ILE  H     101 ILE  HA      4.84
+130 TRP  HA    133 ILE  H       4.16
+126 MET  HA    130 TRP  H       4.40
+ 66 LEU  HA     77 GLU  H       5.42
+124 GLY  QA    127 ASP  H       4.40
+ 13 THR  HB     14 LYS  H       4.20
+ 11 ASP  HA     12 ILE  H       3.22
+  5 ASN  HA      6 GLU  H       3.12
+ 50 GLN  H      50 GLN  HA      2.93
+119 SER  HA    122 VAL  H       3.84
+124 GLY  QA    125 LYS  H       3.28
+  8 ALA  HA    112 ILE  H       3.22
+130 TRP  H     130 TRP  HB2     3.81
+130 TRP  H     130 TRP  HB3     4.02
+ 12 ILE  H     102 HIS  HB3     4.19
+122 VAL  H     125 LYS  HE2     5.50
+122 VAL  HA    125 LYS  H       3.83
+127 ASP  H     127 ASP  HB3     3.68
+ 12 ILE  H     102 HIS  HB2     4.34
+ 11 ASP  QB     12 ILE  H       3.56
+  6 GLU  H       6 GLU  QG      3.58
+122 VAL  H     125 LYS  HE3     5.50
+122 VAL  H     122 VAL  HB      3.16
+126 MET  QB    130 TRP  H       5.14
+125 LYS  QD    130 TRP  H       5.24
+126 MET  QB    127 ASP  H       3.86
+ 14 LYS  H      14 LYS  HB2     3.87
+ 14 LYS  H      14 LYS  HB3     3.72
+ 14 LYS  H     100 LEU  HB3     3.62
+ 50 GLN  HB3    51 GLU  H       4.31
+110 GLU  QB    111 VAL  H       3.57
+  6 GLU  H       6 GLU  QB      3.49
+122 VAL  H     122 VAL  QG2     3.77
+145 LEU  H     145 LEU  QB      3.59
+125 LYS  H     125 LYS  HB3     3.06
+ 12 ILE  QG2   130 TRP  H       5.50
+ 13 THR  QG2    14 LYS  H       3.58
+111 VAL  H     111 VAL  QG1     3.99
+  8 ALA  H     112 ILE  QG2     5.07
+ 90 GLU  H      97 GLY  H       3.47
+ 17 THR  H      18 LEU  H       4.69
+ 16 ILE  H      17 THR  H       4.46
+ 23 GLN  H      26 TRP  H       4.80
+ 13 THR  H     102 HIS  H       5.13
+ 80 THR  H      81 GLU  H       3.86
+ 32 SER  H      35 ILE  H       4.92
+ 33 GLU  H      35 ILE  H       5.27
+ 26 TRP  H      27 GLU  H       3.42
+ 64 LYS  H      77 GLU  H       4.20
+ 66 LEU  H      67 ALA  H       3.06
+ 16 ILE  H     100 LEU  H       5.18
+ 90 GLU  H      91 ASP  H       4.49
+ 22 ILE  H      23 GLN  H       3.65
+ 13 THR  H      14 LYS  H       4.64
+ 43 ASP  H      44 PHE  H       3.53
+ 64 LYS  H      79 ASP  H       5.08
+ 23 GLN  H      25 VAL  H       4.69
+ 25 VAL  H      26 TRP  H       3.51
+ 67 ALA  H      68 VAL  H       4.32
+ 36 ALA  H      44 PHE  H       5.50
+122 VAL  H     123 ARG  H       3.50
+123 ARG  H     124 GLY  H       3.72
+123 ARG  H     125 LYS  H       4.66
+ 63 CYS  H      64 LYS  H       4.57
+126 MET  H     128 GLY  H       5.04
+ 81 GLU  H      83 TRP  H       5.03
+ 25 VAL  H      27 GLU  H       4.53
+141 ALA  H     143 GLU  H       4.29
+ 26 TRP  H      28 THR  H       4.17
+ 76 PHE  QD     77 GLU  H       4.27
+ 87 PHE  QD     88 GLN  H       4.05
+ 88 GLN  H      98 PHE  QE      4.98
+ 23 GLN  H      24 LYS  H       3.40
+ 27 GLU  H      28 THR  H       3.31
+ 24 LYS  H      27 GLU  H       4.94
+ 15 SER  HA     16 ILE  H       2.89
+ 75 SER  HA     76 PHE  H       2.91
+ 67 ALA  H      75 SER  HA      5.39
+139 ARG  H     141 ALA  H       4.75
+ 76 PHE  HA     77 GLU  H       3.23
+ 64 LYS  HA     77 GLU  H       5.41
+ 16 ILE  H      99 THR  HA      3.47
+ 90 GLU  H      98 PHE  HA      3.86
+ 67 ALA  HA     68 VAL  H       2.69
+ 76 PHE  H      86 THR  HA      3.78
+ 42 ASN  HA     44 PHE  H       4.72
+ 87 PHE  HA     88 GLN  H       2.83
+ 88 GLN  H      99 THR  HA      4.57
+ 11 ASP  H     103 SER  HA      4.88
+ 42 ASN  HA     43 ASP  H       3.18
+ 63 CYS  HA     64 LYS  H       3.12
+ 64 LYS  H      77 GLU  HA      5.34
+ 67 ALA  H      76 PHE  HA      3.96
+ 24 LYS  HA     26 TRP  H       4.55
+ 22 ILE  HA     26 TRP  H       4.00
+ 65 VAL  HA     77 GLU  H       3.92
+ 90 GLU  H      97 GLY  HA3     3.89
+ 51 GLU  HA     52 PHE  H       3.09
+119 SER  HA    123 ARG  H       4.03
+ 16 ILE  HA     17 THR  H       2.88
+ 10 PRO  HA     11 ASP  H       2.76
+118 LYS  HA    119 SER  H       3.20
+ 21 PRO  HA     23 GLN  H       4.11
+ 62 PRO  HA     63 CYS  H       2.97
+123 ARG  HA    126 MET  H       4.82
+ 12 ILE  HA     13 THR  H       2.77
+ 13 THR  H      13 THR  HB      3.50
+ 50 GLN  H      65 VAL  HA      4.93
+ 24 LYS  HA     27 GLU  H       3.88
+ 23 GLN  HA     27 GLU  H       4.65
+ 64 LYS  H      65 VAL  HA      5.14
+ 25 VAL  H      26 TRP  HA      5.50
+ 22 ILE  HA     25 VAL  H       4.04
+ 65 VAL  HA     67 ALA  H       4.66
+ 26 TRP  H      26 TRP  HB3     3.43
+ 26 TRP  H      26 TRP  HB2     3.39
+ 76 PHE  HB2    77 GLU  H       3.62
+120 SER  HA    123 ARG  H       3.88
+ 88 GLN  H      99 THR  HB      3.80
+ 87 PHE  HB2    88 GLN  H       4.91
+ 87 PHE  HB3    88 GLN  H       4.91
+ 23 GLN  H      26 TRP  HB2     5.50
+ 80 THR  HB     81 GLU  H       4.46
+ 26 TRP  HB3    27 GLU  H       3.75
+ 26 TRP  HB2    27 GLU  H       3.96
+ 27 GLU  H      28 THR  HA      5.24
+ 21 PRO  HD2    25 VAL  H       5.32
+ 25 VAL  H      26 TRP  HB3     5.50
+ 67 ALA  H      76 PHE  HB3     4.93
+138 LEU  HA    141 ALA  H       3.78
+ 26 TRP  H      27 GLU  HG2     5.50
+ 26 TRP  H      27 GLU  HG3     5.50
+ 16 ILE  H      98 PHE  HB3     4.60
+ 77 GLU  H      77 GLU  HB2     3.35
+ 68 VAL  H      68 VAL  HB      2.95
+122 VAL  HB    123 ARG  H       3.29
+ 11 ASP  H      11 ASP  QB      3.42
+119 SER  H     122 VAL  HB      4.95
+125 LYS  HE3   126 MET  H       5.11
+126 MET  H     126 MET  HG2     4.09
+126 MET  H     126 MET  HG3     4.09
+ 25 VAL  HB     26 TRP  H       4.12
+ 90 GLU  H      90 GLU  HB2     4.05
+ 66 LEU  HB2    77 GLU  H       4.76
+ 16 ILE  H      16 ILE  HB      3.55
+ 90 GLU  H      90 GLU  HB3     3.40
+ 44 PHE  H      44 PHE  HB2     3.68
+ 44 PHE  H      44 PHE  HB3     3.68
+ 51 GLU  QB     52 PHE  H       3.15
+ 88 GLN  H      88 GLN  HB2     3.41
+ 16 ILE  HB     17 THR  H       4.12
+ 21 PRO  HG2    23 GLN  H       4.15
+125 LYS  HG3   126 MET  H       5.00
+126 MET  H     126 MET  QB      3.41
+125 LYS  HG2   126 MET  H       4.36
+ 35 ILE  H      35 ILE  HB      3.25
+ 50 GLN  H      50 GLN  HB3     3.45
+ 64 LYS  H      64 LYS  QB      3.32
+  9 LEU  H       9 LEU  QB      3.27
+ 25 VAL  H      25 VAL  HB      3.32
+ 66 LEU  HB3    67 ALA  H       3.15
+ 66 LEU  HB2    67 ALA  H       3.45
+140 LYS  QB    141 ALA  H       3.15
+141 ALA  H     141 ALA  QB      2.97
+ 25 VAL  QG1    26 TRP  H       4.13
+ 16 ILE  H      16 ILE  QG2     3.18
+ 66 LEU  QQD    77 GLU  H       5.34
+ 90 GLU  H      96 THR  QG2     3.43
+ 35 ILE  QG2    44 PHE  H       5.50
+ 88 GLN  H     101 ILE  QD1     4.31
+ 16 ILE  QD1    17 THR  H       3.20
+ 23 GLN  H      96 THR  QG2     5.36
+ 22 ILE  QG2    23 GLN  H       3.13
+ 13 THR  H      13 THR  QG2     4.36
+ 28 THR  QG2    35 ILE  H       5.50
+ 35 ILE  H      35 ILE  HG13    3.41
+  9 LEU  H       9 LEU  HG      4.72
+  9 LEU  H     112 ILE  QG2     4.06
+ 20 ALA  QB     25 VAL  H       3.97
+141 ALA  H     142 VAL  QG2     4.28
+ 35 ILE  QD1    44 PHE  H       5.50
+ 35 ILE  H      35 ILE  QD1     3.79
+ 24 LYS  H      26 TRP  H       4.19
+ 84 VAL  H     105 TRP  H       5.34
+  6 GLU  H       7 ASN  H       3.80
+134 VAL  H     137 ARG  H       5.28
+ 35 ILE  H      36 ALA  H       3.68
+ 33 GLU  H      34 GLY  H       3.28
+  7 ASN  H       8 ALA  H       3.02
+ 82 GLY  H      83 TRP  H       3.21
+142 VAL  H     143 GLU  H       3.07
+142 VAL  H     144 GLU  H       5.45
+135 ASN  H     137 ARG  H       4.67
+ 24 LYS  H      25 VAL  H       3.12
+ 24 LYS  H      26 TRP  HE3     5.50
+ 31 THR  H      32 SER  H       4.50
+ 83 TRP  HH2   115 ALA  H       5.50
+ 78 TRP  H      78 TRP  HD1     5.20
+ 31 THR  HA     32 SER  H       3.02
+ 31 THR  HB     32 SER  H       2.87
+ 83 TRP  HA    105 TRP  H       4.89
+104 GLY  HA2   105 TRP  H       3.13
+ 41 PRO  HA     42 ASN  H       3.02
+  5 ASN  H       6 GLU  HA      5.21
+  6 GLU  HA      7 ASN  H       3.10
+ 21 PRO  HA     24 LYS  H       4.84
+104 GLY  HA3   105 TRP  H       3.53
+140 LYS  QE    144 GLU  H       3.75
+134 VAL  HA    137 ARG  H       4.99
+137 ARG  H     137 ARG  QD      5.39
+ 21 PRO  HD2    24 LYS  H       4.42
+ 24 LYS  H      25 VAL  HA      5.49
+ 33 GLU  H      33 GLU  QG      3.34
+ 41 PRO  HB2    42 ASN  H       4.56
+  7 ASN  H       7 ASN  HB2     3.74
+  7 ASN  H       7 ASN  HB3     3.74
+143 GLU  H     143 GLU  QG      3.43
+ 77 GLU  HB3    78 TRP  H       3.59
+137 ARG  H     137 ARG  HB2     3.73
+136 GLU  HB3   137 ARG  H       3.44
+137 ARG  H     137 ARG  HB3     3.73
+ 31 THR  QG2    32 SER  H       3.76
+143 GLU  H     143 GLU  HB2     2.81
+143 GLU  HB2   144 GLU  H       3.16
+141 ALA  QB    143 GLU  H       4.67
+ 85 VAL  HB     86 THR  H       3.59
+ 35 ILE  HB     36 ALA  H       3.08
+112 ILE  HB    115 ALA  H       4.21
+142 VAL  QG1   143 GLU  H       4.00
+ 86 THR  H     101 ILE  QG2     5.50
+ 35 ILE  QG2    36 ALA  H       4.09
+ 20 ALA  QB     24 LYS  H       4.45
+ 35 ILE  QD1    36 ALA  H       4.74
+ 18 LEU  H      97 GLY  H       5.33
+ 69 GLN  H      75 SER  H       4.20
+ 75 SER  H      76 PHE  H       4.47
+ 96 THR  H      97 GLY  H       4.54
+ 18 LEU  H      96 THR  H       3.68
+ 15 SER  H      16 ILE  H       4.56
+134 VAL  H     138 LEU  H       5.50
+130 TRP  H     131 THR  H       3.80
+138 LEU  H     140 LYS  H       4.59
+138 LEU  H     139 ARG  H       3.65
+ 42 ASN  H      44 PHE  H       5.50
+ 15 SER  H     100 LEU  H       5.37
+129 GLY  H     131 THR  H       4.59
+131 THR  H     134 VAL  H       5.26
+ 94 GLU  H      95 LYS  H       2.98
+ 92 LEU  H      97 GLY  H       4.20
+ 67 ALA  H      75 SER  H       4.09
+133 ILE  H     134 VAL  H       3.54
+140 LYS  H     143 GLU  H       4.56
+137 ARG  H     140 LYS  H       4.79
+137 ARG  H     139 ARG  H       4.64
+139 ARG  H     140 LYS  H       3.56
+ 95 LYS  H      96 THR  H       4.59
+ 96 THR  HA     97 GLY  H       3.03
+ 97 GLY  H      98 PHE  HA      5.42
+ 74 LEU  HA     75 SER  H       2.80
+ 95 LYS  HA     96 THR  H       3.07
+ 14 LYS  HA     15 SER  H       2.81
+130 TRP  HA    134 VAL  H       4.08
+ 68 VAL  HA     75 SER  H       3.77
+ 18 LEU  HA     96 THR  H       5.15
+ 15 SER  H      16 ILE  HA      5.25
+132 GLY  QA    134 VAL  H       5.50
+131 THR  H     131 THR  HB      3.64
+136 GLU  HA    140 LYS  H       4.10
+135 ASN  HA    139 ARG  H       4.80
+136 GLU  HA    139 ARG  H       4.76
+ 75 SER  H      75 SER  HB2     4.07
+ 96 THR  H      96 THR  HB      3.48
+ 15 SER  H      15 SER  HB2     3.91
+ 15 SER  H      15 SER  HB3     3.91
+134 VAL  H     135 ASN  HB2     5.45
+130 TRP  HB2   134 VAL  H       5.50
+130 TRP  HB2   131 THR  H       4.28
+130 TRP  HB3   131 THR  H       4.47
+138 LEU  HA    140 LYS  H       4.55
+137 ARG  QD    140 LYS  H       4.89
+134 VAL  H     134 VAL  HB      3.65
+134 VAL  H     135 ASN  HB3     5.45
+ 90 GLU  HB3    97 GLY  H       3.92
+ 95 LYS  QG     97 GLY  H       4.06
+ 74 LEU  HB2    75 SER  H       4.08
+ 74 LEU  HG     75 SER  H       4.60
+ 18 LEU  HB2    96 THR  H       3.91
+ 95 LYS  QG     96 THR  H       3.46
+ 14 LYS  HB2    15 SER  H       4.37
+ 14 LYS  HB3    15 SER  H       3.77
+139 ARG  QB    140 LYS  H       3.09
+ 95 LYS  H      95 LYS  QG      3.09
+138 LEU  QB    139 ARG  H       3.57
+139 ARG  H     139 ARG  QB      3.05
+ 92 LEU  HG     97 GLY  H       4.43
+ 95 LYS  QB     96 THR  H       3.57
+ 13 THR  QG2    15 SER  H       5.06
+131 THR  H     131 THR  QG2     4.68
+140 LYS  H     142 VAL  QG1     5.19
+ 95 LYS  H      95 LYS  QB      3.28
+ 16 ILE  QD1   139 ARG  H       4.29
+138 LEU  QD1   139 ARG  H       4.86
+ 48 GLU  H      49 GLY  H       4.21
+136 GLU  H     138 LEU  H       4.86
+119 SER  H     120 SER  H       3.94
+ 49 GLY  H      65 VAL  H       4.34
+134 VAL  H     136 GLU  H       5.27
+135 ASN  H     136 GLU  H       3.27
+120 SER  H     121 VAL  H       3.51
+ 28 THR  H      30 SER  H       5.20
+ 49 GLY  H      65 VAL  HA      5.50
+ 26 TRP  HA     28 THR  H       4.34
+ 24 LYS  HA     28 THR  H       4.72
+ 28 THR  H      28 THR  HB      3.36
+ 48 GLU  HA     49 GLY  H       2.98
+134 VAL  HA    136 GLU  H       5.46
+135 ASN  HB2   136 GLU  H       4.12
+135 ASN  HB3   136 GLU  H       4.12
+136 GLU  H     136 GLU  HB3     3.27
+ 49 GLY  H      50 GLN  HB2     4.08
+ 47 LYS  HB3    49 GLY  H       4.39
+136 GLU  H     139 ARG  QB      4.73
+ 27 GLU  HB3    28 THR  H       4.41
+ 28 THR  H      31 THR  QG2     4.59
+ 49 GLY  H      65 VAL  QG2     4.01
+ 49 GLY  H      65 VAL  QG1     4.01
+ 16 ILE  QD1   136 GLU  H       5.50
+ 28 THR  H      28 THR  QG2     3.88
+ 28 THR  H      29 VAL  QG1     5.13
+129 GLY  H     130 TRP  H       3.81
+126 MET  H     129 GLY  H       4.54
+134 VAL  H     135 ASN  H       3.39
+128 GLY  H     129 GLY  H       3.71
+ 93 GLY  H      95 LYS  H       4.61
+129 GLY  H     130 TRP  HA      5.50
+ 92 LEU  HA     93 GLY  H       3.23
+126 MET  HA    129 GLY  H       4.48
+127 ASP  HA    129 GLY  H       5.05
+132 GLY  QA    135 ASN  H       4.18
+135 ASN  H     135 ASN  HB2     3.57
+138 LEU  HA    142 VAL  H       4.84
+135 ASN  H     135 ASN  HB3     3.57
+134 VAL  HB    135 ASN  H       4.01
+142 VAL  H     143 GLU  QG      4.56
+ 92 LEU  HB2    93 GLY  H       4.40
+ 92 LEU  HB3    93 GLY  H       4.14
+125 LYS  HB3   129 GLY  H       5.50
+142 VAL  H     142 VAL  HB      3.76
+141 ALA  QB    142 VAL  H       3.56
+ 29 VAL  H      31 THR  QG2     4.89
+134 VAL  QG1   135 ASN  H       4.13
+142 VAL  H     142 VAL  QG1     3.26
+ 79 ASP  H      80 THR  H       4.57
+ 34 GLY  H      35 ILE  H       3.36
+ 27 GLU  H      29 VAL  H       4.45
+ 29 VAL  H      30 SER  H       3.14
+ 31 THR  H      34 GLY  H       4.38
+ 29 VAL  H      87 PHE  QD      5.50
+ 79 ASP  HA     80 THR  H       3.52
+ 28 THR  HB     29 VAL  H       3.82
+ 27 GLU  HA     29 VAL  H       4.34
+ 28 THR  HA     30 SER  H       4.93
+ 30 SER  H      34 GLY  HA3     5.12
+ 27 GLU  HA     30 SER  H       4.28
+ 29 VAL  HB     30 SER  H       4.52
+ 31 THR  QG2    34 GLY  H       4.40
+ 30 SER  H      31 THR  QG2     3.94
+ 28 THR  QG2    34 GLY  H       5.38
+ 29 VAL  H      35 ILE  HG13    5.37
+ 29 VAL  QG2    30 SER  H       4.10
+ 29 VAL  H      29 VAL  QG1     3.48
+ 30 SER  H      35 ILE  QD1     4.73
+ 80 THR  H      82 GLY  H       4.39
+ 79 ASP  H      82 GLY  H       5.38
+ 81 GLU  H      82 GLY  H       3.05
+132 GLY  H     134 VAL  H       5.43
+ 31 THR  H      35 ILE  H       3.94
+132 GLY  H     133 ILE  H       3.52
+131 THR  H     132 GLY  H       3.57
+ 29 VAL  H      31 THR  H       4.29
+ 30 SER  H      31 THR  H       2.92
+103 SER  HA    104 GLY  H       3.44
+130 TRP  HA    132 GLY  H       5.29
+103 SER  HB2   104 GLY  H       4.14
+132 GLY  H     132 GLY  QA      2.92
+ 31 THR  H      31 THR  HB      3.83
+ 31 THR  H      34 GLY  HA3     4.03
+ 27 GLU  HA     31 THR  H       4.06
+ 31 THR  H      35 ILE  HA      5.50
+ 31 THR  H      31 THR  QG2     3.29
+ 29 VAL  QG2    31 THR  H       5.09
+ 31 THR  H      35 ILE  HG13    4.03
+ 31 THR  H      35 ILE  QD1     4.02
+ 72 THR  H      73 GLU  H       2.76
+124 GLY  H     126 MET  H       4.47
+122 VAL  H     124 GLY  H       4.80
+ 72 THR  H      73 GLU  HA      4.62
+ 72 THR  H      72 THR  HB      3.87
+122 VAL  HB    124 GLY  H       5.50
+ 71 PRO  QB     72 THR  H       4.09
+ 76 PHE  H      76 PHE  QD      3.56
+ 75 SER  H      76 PHE  QD      4.47
+ 64 LYS  H      76 PHE  QD      4.99
+ 75 SER  HA     76 PHE  QD      4.01
+ 65 VAL  HA     76 PHE  QD      4.34
+ 74 LEU  HB3    76 PHE  QD      5.09
+ 74 LEU  HG     76 PHE  QD      4.00
+ 35 ILE  QG2    76 PHE  QD      4.63
+ 16 ILE  H      98 PHE  QD      4.61
+ 98 PHE  H      98 PHE  QD      5.12
+ 98 PHE  QE    100 LEU  H       4.24
+ 98 PHE  QD    100 LEU  H       4.34
+ 98 PHE  QE     99 THR  H       4.63
+ 76 PHE  QD     87 PHE  QE      4.48
+ 15 SER  HA     98 PHE  QD      5.09
+ 74 LEU  HB3    87 PHE  QD      3.99
+ 16 ILE  HB     98 PHE  QD      4.85
+ 98 PHE  QD    138 LEU  QB      5.26
+ 98 PHE  QE    100 LEU  HB2     3.70
+ 29 VAL  QG2    87 PHE  QE      4.98
+ 98 PHE  QE    134 VAL  QG1     3.77
+ 16 ILE  QG2    98 PHE  QD      3.41
+ 29 VAL  QG1    98 PHE  QD      4.21
+ 98 PHE  QE    138 LEU  QD2     3.99
+ 87 PHE  QE     98 PHE  QE      4.38
+ 98 PHE  QE    134 VAL  HB      4.57
+ 98 PHE  QE    134 VAL  QG2     3.77
+ 76 PHE  QE     87 PHE  QE      4.09
+ 76 PHE  QE     87 PHE  QD      4.00
+ 74 LEU  HG     76 PHE  QE      4.51
+130 TRP  H     130 TRP  HD1     4.52
+126 MET  HA    130 TRP  HD1     4.67
+126 MET  HG2   130 TRP  HD1     5.50
+102 HIS  HB2   130 TRP  HD1     5.50
+126 MET  HG3   130 TRP  HD1     5.50
+126 MET  QB    130 TRP  HD1     3.88
+102 HIS  HD2   104 GLY  H       5.23
+ 78 TRP  HA     78 TRP  HD1     4.34
+ 26 TRP  HA     26 TRP  HD1     4.05
+ 26 TRP  HD1    71 PRO  QB      4.24
+100 LEU  HG    130 TRP  HE3     4.08
+130 TRP  HZ3   134 VAL  H       4.97
+130 TRP  HB3   130 TRP  HZ3     5.46
+100 LEU  HG    130 TRP  HZ3     4.49
+130 TRP  HZ3   134 VAL  QG1     4.83
+130 TRP  HZ3   134 VAL  QG2     4.83
+  5 ASN  QB      6 GLU  QG      4.47
+  6 GLU  HA      7 ASN  QB      5.32
+  7 ASN  H       7 ASN  QB      3.18
+  7 ASN  QB      8 ALA  H       3.61
+  7 ASN  QB      8 ALA  HA      5.20
+  8 ALA  H     111 VAL  QG1     5.08
+  8 ALA  H     111 VAL  QG2     0.00
+  8 ALA  HA    111 VAL  QG1     4.63
+  8 ALA  HA    111 VAL  QG2     0.00
+  8 ALA  QB    111 VAL  QG1     4.18
+  8 ALA  QB    111 VAL  QG2     0.00
+  9 LEU  QB    122 VAL  QG1     4.28
+  9 LEU  QB    122 VAL  QG2     0.00
+  9 LEU  QB    126 MET  QG      4.43
+ 10 PRO  QB     11 ASP  H       3.02
+ 12 ILE  QG2   100 LEU  QD2     3.72
+ 12 ILE  QG2   100 LEU  QD1     0.00
+ 13 THR  HA    100 LEU  QD2     4.42
+ 13 THR  HA    100 LEU  QD1     0.00
+ 14 LYS  H     100 LEU  QD2     4.01
+ 14 LYS  H     100 LEU  QD1     0.00
+ 14 LYS  HB2   134 VAL  QG1     4.87
+ 14 LYS  HB2   134 VAL  QG2     0.00
+ 14 LYS  HB3   100 LEU  QD2     4.30
+ 14 LYS  HB3   100 LEU  QD1     0.00
+ 14 LYS  HB3   134 VAL  QG1     3.81
+ 14 LYS  HB3   134 VAL  QG2     0.00
+ 15 SER  H      15 SER  QB      3.25
+ 15 SER  QB     16 ILE  H       3.28
+ 16 ILE  H      16 ILE  QG1     4.53
+ 16 ILE  HB    134 VAL  QG1     3.63
+ 16 ILE  HB    134 VAL  QG2     0.00
+ 16 ILE  QG2    16 ILE  QG1     3.40
+ 16 ILE  QG2    18 LEU  QD2     3.42
+ 16 ILE  QG2    18 LEU  QD1     0.00
+ 16 ILE  QG2   134 VAL  QG1     3.90
+ 16 ILE  QG2   134 VAL  QG2     0.00
+ 16 ILE  QG2   138 LEU  QD2     3.69
+ 16 ILE  QG2   138 LEU  QD1     0.00
+ 16 ILE  QG1    17 THR  H       3.29
+ 16 ILE  QG1    18 LEU  QD2     3.84
+ 16 ILE  QG1    18 LEU  QD1     0.00
+ 16 ILE  QG1   135 ASN  HA      4.90
+ 16 ILE  QG1   135 ASN  QB      4.37
+ 16 ILE  QD1    18 LEU  QD2     3.25
+ 16 ILE  QD1    18 LEU  QD1     0.00
+ 16 ILE  QD1   134 VAL  QG1     4.33
+ 16 ILE  QD1   134 VAL  QG2     0.00
+ 16 ILE  QD1   138 LEU  QD2     4.48
+ 16 ILE  QD1   138 LEU  QD1     0.00
+ 17 THR  H      18 LEU  QD2     4.94
+ 17 THR  H      18 LEU  QD1     0.00
+ 18 LEU  H      18 LEU  QD2     3.39
+ 18 LEU  H      18 LEU  QD1     0.00
+ 18 LEU  H      25 VAL  QG1     5.44
+ 18 LEU  H      25 VAL  QG2     0.00
+ 18 LEU  HA     18 LEU  QD2     4.30
+ 18 LEU  HA     18 LEU  QD1     0.00
+ 18 LEU  HB2    25 VAL  QG1     3.62
+ 18 LEU  HB2    25 VAL  QG2     0.00
+ 18 LEU  HG     25 VAL  QG1     4.41
+ 18 LEU  HG     25 VAL  QG2     0.00
+ 18 LEU  QD2    19 GLU  H       4.45
+ 18 LEU  QD1    19 GLU  H       0.00
+ 18 LEU  QD2    19 GLU  QG      5.29
+ 18 LEU  QD1    19 GLU  QG      0.00
+ 18 LEU  QD2    20 ALA  QB      5.35
+ 18 LEU  QD1    20 ALA  QB      0.00
+ 18 LEU  QD2    25 VAL  HB      4.44
+ 18 LEU  QD1    25 VAL  HB      0.00
+ 18 LEU  QD2    25 VAL  QG1     3.14
+ 18 LEU  QD1    25 VAL  QG1     0.00
+ 18 LEU  QD2    25 VAL  QG2     0.00
+ 18 LEU  QD1    25 VAL  QG2     0.00
+ 18 LEU  QD2    97 GLY  H       5.22
+ 18 LEU  QD1    97 GLY  H       0.00
+ 18 LEU  QD2    98 PHE  H       3.94
+ 18 LEU  QD1    98 PHE  H       0.00
+ 18 LEU  QD2    98 PHE  HB2     3.00
+ 18 LEU  QD1    98 PHE  HB2     0.00
+ 18 LEU  QD2    98 PHE  HB3     4.49
+ 18 LEU  QD1    98 PHE  HB3     0.00
+ 18 LEU  QD2    98 PHE  QD      3.70
+ 18 LEU  QD1    98 PHE  QD      0.00
+ 18 LEU  QD1   138 LEU  QB      3.44
+ 18 LEU  QD2   138 LEU  QB      0.00
+ 18 LEU  QD2   138 LEU  HG      4.23
+ 18 LEU  QD1   138 LEU  HG      0.00
+ 18 LEU  QD2   138 LEU  QD2     3.33
+ 18 LEU  QD2   138 LEU  QD1     0.00
+ 18 LEU  QD1   138 LEU  QD1     0.00
+ 18 LEU  QD1   138 LEU  QD2     0.00
+ 18 LEU  QD2   139 ARG  H       3.63
+ 18 LEU  QD1   139 ARG  H       0.00
+ 18 LEU  QD2   139 ARG  HA      3.10
+ 18 LEU  QD1   139 ARG  HA      0.00
+ 18 LEU  QD2   139 ARG  QB      3.79
+ 18 LEU  QD1   139 ARG  QB      0.00
+ 18 LEU  QD2   142 VAL  QG1     5.16
+ 18 LEU  QD1   142 VAL  QG1     0.00
+ 19 GLU  H      19 GLU  QB      3.13
+ 19 GLU  QB     95 LYS  QB      5.10
+ 19 GLU  QB    139 ARG  QD      5.18
+ 20 ALA  H      25 VAL  QG1     4.90
+ 20 ALA  H      25 VAL  QG2     0.00
+ 21 PRO  HD2    23 GLN  QG      5.34
+ 21 PRO  HD2    25 VAL  QG1     5.44
+ 21 PRO  HD2    25 VAL  QG2     0.00
+ 22 ILE  H      23 GLN  QB      5.34
+ 22 ILE  HA     25 VAL  QG1     3.62
+ 22 ILE  HA     25 VAL  QG2     0.00
+ 22 ILE  QG2    23 GLN  QB      3.73
+ 22 ILE  QG1    23 GLN  H       4.57
+ 22 ILE  QG1    25 VAL  HB      5.34
+ 23 GLN  H      23 GLN  QB      3.18
+ 23 GLN  H      23 GLN  QG      4.14
+ 23 GLN  HA     23 GLN  QG      3.33
+ 23 GLN  QB     23 GLN  QG      2.31
+ 23 GLN  QG     24 LYS  H       3.96
+ 23 GLN  QG     24 LYS  HA      4.57
+ 23 GLN  QG     25 VAL  H       5.34
+ 23 GLN  QG     26 TRP  HB3     5.34
+ 24 LYS  H      25 VAL  QG1     4.22
+ 24 LYS  H      25 VAL  QG2     0.00
+ 24 LYS  HA     27 GLU  QG      5.27
+ 25 VAL  H      25 VAL  QG1     3.03
+ 25 VAL  H      25 VAL  QG2     0.00
+ 25 VAL  H      27 GLU  QG      5.34
+ 25 VAL  QG1    26 TRP  H       3.54
+ 25 VAL  QG2    26 TRP  H       0.00
+ 25 VAL  QG1    26 TRP  HB3     5.44
+ 25 VAL  QG2    26 TRP  HB3     0.00
+ 25 VAL  QG1    28 THR  HB      3.98
+ 25 VAL  QG2    28 THR  HB      0.00
+ 25 VAL  QG1    29 VAL  QG1     3.76
+ 25 VAL  QG2    29 VAL  QG1     0.00
+ 25 VAL  QG1    96 THR  H       4.99
+ 25 VAL  QG2    96 THR  H       0.00
+ 25 VAL  QG1    96 THR  HB      3.23
+ 25 VAL  QG2    96 THR  HB      0.00
+ 25 VAL  QG1    96 THR  QG2     3.02
+ 25 VAL  QG2    96 THR  QG2     0.00
+ 25 VAL  QG1    98 PHE  QE      3.95
+ 25 VAL  QG2    98 PHE  QE      0.00
+ 25 VAL  QG1   138 LEU  HA      5.44
+ 25 VAL  QG2   138 LEU  HA      0.00
+ 25 VAL  QG1   138 LEU  QD2     3.33
+ 25 VAL  QG1   138 LEU  QD1     0.00
+ 25 VAL  QG2   138 LEU  QD1     0.00
+ 25 VAL  QG2   138 LEU  QD2     0.00
+ 26 TRP  HB3    27 GLU  QB      4.56
+ 27 GLU  H      27 GLU  QB      2.96
+ 27 GLU  H      27 GLU  QG      3.95
+ 27 GLU  HA     27 GLU  QG      3.64
+ 27 GLU  QB     28 THR  H       3.86
+ 27 GLU  QB     29 VAL  H       5.34
+ 27 GLU  QB     31 THR  H       4.67
+ 27 GLU  QG     31 THR  QG2     3.91
+ 28 THR  HB    138 LEU  QD2     4.49
+ 28 THR  HB    138 LEU  QD1     0.00
+ 28 THR  QG2   138 LEU  QD2     3.11
+ 28 THR  QG2   138 LEU  QD1     0.00
+ 29 VAL  H     138 LEU  QD2     4.60
+ 29 VAL  H     138 LEU  QD1     0.00
+ 29 VAL  HB    138 LEU  QD2     4.62
+ 29 VAL  HB    138 LEU  QD1     0.00
+ 29 VAL  QG1    74 LEU  QD2     4.98
+ 29 VAL  QG1    74 LEU  QD1     0.00
+ 29 VAL  QG1    87 PHE  QB      5.05
+ 29 VAL  QG1   100 LEU  QD2     4.19
+ 29 VAL  QG1   100 LEU  QD1     0.00
+ 29 VAL  QG1   138 LEU  QD2     2.90
+ 29 VAL  QG1   138 LEU  QD1     0.00
+ 29 VAL  QG2    87 PHE  QB      3.95
+ 30 SER  HA     74 LEU  QD2     3.83
+ 30 SER  HA     74 LEU  QD1     0.00
+ 30 SER  QB     68 VAL  QG1     4.06
+ 30 SER  QB     68 VAL  QG2     0.00
+ 30 SER  QB     74 LEU  QD2     4.00
+ 30 SER  QB     74 LEU  QD1     0.00
+ 32 SER  QB     33 GLU  H       2.89
+ 32 SER  QB     33 GLU  QG      3.70
+ 32 SER  QB     44 PHE  H       4.19
+ 32 SER  QB     44 PHE  QB      4.22
+ 33 GLU  H      33 GLU  QB      2.95
+ 33 GLU  QB     33 GLU  QG      2.34
+ 33 GLU  QB     34 GLY  H       3.45
+ 33 GLU  QB     34 GLY  HA2     4.59
+ 35 ILE  QG2    44 PHE  QB      3.61
+ 35 ILE  QD1    44 PHE  QB      3.73
+ 35 ILE  QD1    74 LEU  QD2     4.01
+ 35 ILE  QD1    74 LEU  QD1     0.00
+ 36 ALA  H      44 PHE  QB      4.44
+ 41 PRO  QB     42 ASN  H       3.81
+ 42 ASN  H      42 ASN  QB      3.68
+ 42 ASN  HA     43 ASP  QB      4.42
+ 42 ASN  QB     43 ASP  H       3.25
+ 42 ASN  QB     44 PHE  H       3.62
+ 42 ASN  QB     44 PHE  QB      5.18
+ 44 PHE  H      44 PHE  QB      3.06
+ 44 PHE  QB     45 GLN  H       4.08
+ 45 GLN  H      45 GLN  QB      3.53
+ 45 GLN  QB     46 LEU  H       3.65
+ 45 GLN  QB     46 LEU  HA      4.83
+ 46 LEU  H      46 LEU  QB      3.14
+ 46 LEU  HA     65 VAL  QG1     4.96
+ 46 LEU  HA     65 VAL  QG2     0.00
+ 46 LEU  HA     68 VAL  QG1     3.51
+ 46 LEU  HA     68 VAL  QG2     0.00
+ 46 LEU  QB     47 LYS  H       4.35
+ 46 LEU  QB     68 VAL  QG1     3.74
+ 46 LEU  QB     68 VAL  QG2     0.00
+ 47 LYS  H      50 GLN  QG      4.81
+ 47 LYS  H      65 VAL  QG1     3.15
+ 47 LYS  H      65 VAL  QG2     0.00
+ 47 LYS  H      68 VAL  QG1     3.82
+ 47 LYS  H      68 VAL  QG2     0.00
+ 47 LYS  HA     68 VAL  QG1     4.97
+ 47 LYS  HA     68 VAL  QG2     0.00
+ 47 LYS  HB2    50 GLN  QG      3.64
+ 47 LYS  HB2    65 VAL  QG1     3.90
+ 47 LYS  HB2    65 VAL  QG2     0.00
+ 47 LYS  HB3    50 GLN  QG      3.71
+ 47 LYS  HB3    65 VAL  QG1     3.18
+ 47 LYS  HB3    65 VAL  QG2     0.00
+ 47 LYS  QG     50 GLN  QG      3.75
+ 48 GLU  H      65 VAL  QG1     5.26
+ 48 GLU  H      65 VAL  QG2     0.00
+ 48 GLU  H      68 VAL  QG1     4.03
+ 48 GLU  H      68 VAL  QG2     0.00
+ 48 GLU  HA     65 VAL  QG1     3.24
+ 48 GLU  HA     65 VAL  QG2     0.00
+ 48 GLU  HA     68 VAL  QG1     3.63
+ 48 GLU  HA     68 VAL  QG2     0.00
+ 48 GLU  HB2    65 VAL  QG1     5.44
+ 48 GLU  HB2    65 VAL  QG2     0.00
+ 48 GLU  HB3    65 VAL  QG1     5.36
+ 48 GLU  HB3    65 VAL  QG2     0.00
+ 48 GLU  HB3    68 VAL  QG1     3.53
+ 48 GLU  HB3    68 VAL  QG2     0.00
+ 48 GLU  HG2    68 VAL  QG1     3.36
+ 48 GLU  HG2    68 VAL  QG2     0.00
+ 49 GLY  H      65 VAL  QG1     3.37
+ 49 GLY  H      65 VAL  QG2     0.00
+ 50 GLN  H      50 GLN  QG      4.07
+ 50 GLN  HA     50 GLN  QG      3.19
+ 50 GLN  HB2    65 VAL  QG1     3.82
+ 50 GLN  HB2    65 VAL  QG2     0.00
+ 50 GLN  HB3    65 VAL  QG1     3.73
+ 50 GLN  HB3    65 VAL  QG2     0.00
+ 50 GLN  QG     51 GLU  H       3.90
+ 50 GLN  QG     65 VAL  QG1     5.28
+ 50 GLN  QG     65 VAL  QG2     0.00
+ 51 GLU  QB     52 PHE  QB      5.16
+ 52 PHE  H      52 PHE  QB      3.46
+ 62 PRO  HA     63 CYS  QB      4.95
+ 63 CYS  H      63 CYS  QB      3.48
+ 63 CYS  QB     64 LYS  H       3.02
+ 63 CYS  QB     65 VAL  QG1     5.28
+ 63 CYS  QB     65 VAL  QG2     0.00
+ 63 CYS  QB     76 PHE  QD      4.56
+ 63 CYS  QB     78 TRP  HA      3.65
+ 63 CYS  QB     79 ASP  H       4.33
+ 64 LYS  H      65 VAL  QG1     4.36
+ 64 LYS  H      65 VAL  QG2     0.00
+ 64 LYS  HA     65 VAL  QG1     3.67
+ 64 LYS  HA     65 VAL  QG2     0.00
+ 65 VAL  H      65 VAL  QG1     3.01
+ 65 VAL  H      65 VAL  QG2     0.00
+ 65 VAL  HA     65 VAL  QG1     3.10
+ 65 VAL  HA     65 VAL  QG2     0.00
+ 65 VAL  HA     77 GLU  QG      4.27
+ 65 VAL  QG1    66 LEU  H       3.37
+ 65 VAL  QG2    66 LEU  H       0.00
+ 65 VAL  QG1    66 LEU  HA      5.24
+ 65 VAL  QG2    66 LEU  HA      0.00
+ 65 VAL  QG1    67 ALA  H       3.07
+ 65 VAL  QG2    67 ALA  H       0.00
+ 65 VAL  QG1    68 VAL  HB      4.25
+ 65 VAL  QG2    68 VAL  HB      0.00
+ 65 VAL  QG1    76 PHE  HA      3.42
+ 65 VAL  QG2    76 PHE  HA      0.00
+ 65 VAL  QG1    76 PHE  HB3     3.65
+ 65 VAL  QG2    76 PHE  HB3     0.00
+ 65 VAL  QG1    76 PHE  QD      4.07
+ 65 VAL  QG2    76 PHE  QD      0.00
+ 65 VAL  QG1    77 GLU  H       4.60
+ 65 VAL  QG2    77 GLU  H       0.00
+ 66 LEU  H      75 SER  QB      4.44
+ 66 LEU  HA     77 GLU  QG      4.36
+ 66 LEU  HB2    75 SER  QB      4.52
+ 66 LEU  HB3    75 SER  QB      4.12
+ 66 LEU  QQD    75 SER  QB      3.77
+ 66 LEU  QQD    77 GLU  QG      3.51
+ 67 ALA  H      75 SER  QB      3.74
+ 67 ALA  H      77 GLU  QG      5.34
+ 67 ALA  QB     75 SER  QB      4.12
+ 68 VAL  H      68 VAL  QG1     3.30
+ 68 VAL  H      68 VAL  QG2     0.00
+ 68 VAL  QG1    69 GLN  H       3.24
+ 68 VAL  QG2    69 GLN  H       0.00
+ 68 VAL  QG1    69 GLN  HB2     4.78
+ 68 VAL  QG2    69 GLN  HB2     0.00
+ 68 VAL  QG1    74 LEU  HA      4.03
+ 68 VAL  QG2    74 LEU  HA      0.00
+ 68 VAL  QG1    74 LEU  HB2     3.53
+ 68 VAL  QG2    74 LEU  HB2     0.00
+ 68 VAL  QG1    74 LEU  HB3     4.60
+ 68 VAL  QG2    74 LEU  HB3     0.00
+ 68 VAL  QG1    74 LEU  HG      3.66
+ 68 VAL  QG2    74 LEU  HG      0.00
+ 68 VAL  QG1    74 LEU  QD2     3.13
+ 68 VAL  QG2    74 LEU  QD2     0.00
+ 68 VAL  QG1    74 LEU  QD1     0.00
+ 68 VAL  QG2    74 LEU  QD1     0.00
+ 68 VAL  QG1    75 SER  H       3.89
+ 68 VAL  QG2    75 SER  H       0.00
+ 69 GLN  H      73 GLU  QB      4.93
+ 70 ALA  H      73 GLU  QB      4.95
+ 72 THR  H      73 GLU  QB      4.55
+ 72 THR  HB     73 GLU  QB      4.68
+ 73 GLU  H      73 GLU  QB      3.04
+ 73 GLU  HA     73 GLU  QG      3.15
+ 73 GLU  QB     74 LEU  H       4.33
+ 73 GLU  QG     74 LEU  H       3.65
+ 73 GLU  QG     86 THR  QG2     3.78
+ 74 LEU  H      74 LEU  QD2     3.83
+ 74 LEU  H      74 LEU  QD1     0.00
+ 74 LEU  H      87 PHE  QB      4.74
+ 74 LEU  HA     74 LEU  QD2     3.72
+ 74 LEU  HA     74 LEU  QD1     0.00
+ 74 LEU  HB3    87 PHE  QB      4.62
+ 74 LEU  QD2    75 SER  H       3.66
+ 74 LEU  QD1    75 SER  H       0.00
+ 74 LEU  QD2    75 SER  HA      3.82
+ 74 LEU  QD1    75 SER  HA      0.00
+ 74 LEU  QD2    75 SER  QB      4.78
+ 74 LEU  QD1    75 SER  QB      0.00
+ 74 LEU  QD2    76 PHE  H       3.96
+ 74 LEU  QD1    76 PHE  H       0.00
+ 74 LEU  QD2    76 PHE  HB3     4.64
+ 74 LEU  QD1    76 PHE  HB3     0.00
+ 74 LEU  QD2    76 PHE  QD      2.78
+ 74 LEU  QD1    76 PHE  QD      0.00
+ 74 LEU  QD2    76 PHE  QE      3.45
+ 74 LEU  QD1    76 PHE  QE      0.00
+ 74 LEU  QD2    87 PHE  H       3.63
+ 74 LEU  QD1    87 PHE  H       0.00
+ 74 LEU  QD2    87 PHE  HA      4.72
+ 74 LEU  QD1    87 PHE  HA      0.00
+ 74 LEU  QD1    87 PHE  QB      3.97
+ 74 LEU  QD2    87 PHE  QB      0.00
+ 74 LEU  QD2    87 PHE  QD      3.86
+ 74 LEU  QD1    87 PHE  QD      0.00
+ 74 LEU  QD2    87 PHE  QE      3.96
+ 74 LEU  QD1    87 PHE  QE      0.00
+ 74 LEU  QD2   100 LEU  QD2     5.37
+ 74 LEU  QD1   100 LEU  QD2     0.00
+ 74 LEU  QD2   100 LEU  QD1     0.00
+ 74 LEU  QD1   100 LEU  QD1     0.00
+ 75 SER  H      75 SER  QB      3.29
+ 75 SER  HA     85 VAL  QG1     5.35
+ 75 SER  HA     85 VAL  QG2     0.00
+ 75 SER  QB     76 PHE  H       3.78
+ 75 SER  QB     86 THR  QG2     3.13
+ 76 PHE  H      85 VAL  QG1     3.81
+ 76 PHE  H      85 VAL  QG2     0.00
+ 76 PHE  HA     77 GLU  QG      4.79
+ 77 GLU  H      77 GLU  QG      3.71
+ 77 GLU  QG     84 VAL  HA      4.61
+ 77 GLU  QG     84 VAL  QQG     3.45
+ 79 ASP  QB     80 THR  H       3.61
+ 81 GLU  H      81 GLU  QG      3.72
+ 81 GLU  QB     82 GLY  H       4.05
+ 81 GLU  QB     83 TRP  HZ2     3.57
+ 81 GLU  QB     83 TRP  HH2     4.93
+ 81 GLU  QB    115 ALA  QB      4.07
+ 83 TRP  H      83 TRP  QB      3.43
+ 83 TRP  HA     84 VAL  QQG     4.13
+ 83 TRP  QB     84 VAL  HB      5.34
+ 83 TRP  QB     85 VAL  QG1     3.75
+ 83 TRP  QB     85 VAL  QG2     0.00
+ 83 TRP  QB    104 GLY  HA2     5.09
+ 84 VAL  H      84 VAL  QQG     3.55
+ 84 VAL  QQG   104 GLY  HA2     4.99
+ 84 VAL  QQG   105 TRP  H       4.68
+ 85 VAL  H      85 VAL  QG1     2.82
+ 85 VAL  H      85 VAL  QG2     0.00
+ 85 VAL  QG1    86 THR  H       5.25
+ 85 VAL  QG2    86 THR  H       0.00
+ 86 THR  QG2    88 GLN  QG      4.33
+ 87 PHE  HA     88 GLN  QG      5.34
+ 87 PHE  HA    100 LEU  QD2     4.88
+ 87 PHE  HA    100 LEU  QD1     0.00
+ 87 PHE  QB     88 GLN  H       4.25
+ 87 PHE  QB     98 PHE  QD      4.59
+ 87 PHE  QD    100 LEU  QD2     3.51
+ 87 PHE  QD    100 LEU  QD1     0.00
+ 87 PHE  QE    100 LEU  QD2     3.40
+ 87 PHE  QE    100 LEU  QD1     0.00
+ 87 PHE  QE    134 VAL  QG1     5.39
+ 87 PHE  QE    134 VAL  QG2     0.00
+ 88 GLN  H      88 GLN  QG      3.97
+ 88 GLN  HA     88 GLN  QG      3.36
+ 88 GLN  QG     89 LEU  H       3.72
+ 88 GLN  QG     99 THR  HB      4.63
+ 88 GLN  QG    101 ILE  HG13    5.34
+ 88 GLN  QG    101 ILE  QD1     3.48
+ 89 LEU  QB     90 GLU  H       3.77
+ 89 LEU  QB     96 THR  QG2     3.99
+ 90 GLU  H      90 GLU  QG      4.79
+ 90 GLU  HB3    90 GLU  QG      2.59
+ 90 GLU  QG     91 ASP  H       3.56
+ 90 GLU  QG     92 LEU  H       4.69
+ 90 GLU  QG     92 LEU  HB3     5.34
+ 90 GLU  QG     92 LEU  HG      3.39
+ 90 GLU  QG     97 GLY  H       4.27
+ 90 GLU  QG     97 GLY  HA2     5.34
+ 91 ASP  H      91 ASP  QB      2.97
+ 91 ASP  QB     92 LEU  H       4.00
+ 92 LEU  HB3    94 GLU  QB      5.34
+ 93 GLY  H      94 GLU  QB      4.95
+ 94 GLU  H      94 GLU  QB      3.55
+ 94 GLU  H      94 GLU  QG      4.44
+ 94 GLU  QB     95 LYS  H       3.65
+ 94 GLU  QB     95 LYS  QB      3.66
+ 94 GLU  QB     95 LYS  QG      4.68
+ 94 GLU  QB     95 LYS  QE      3.28
+ 94 GLU  QG     95 LYS  QE      4.09
+ 98 PHE  QD    100 LEU  QD2     4.59
+ 98 PHE  QD    100 LEU  QD1     0.00
+ 98 PHE  QD    134 VAL  QG1     4.19
+ 98 PHE  QD    134 VAL  QG2     0.00
+ 98 PHE  QD    138 LEU  QD2     3.85
+ 98 PHE  QD    138 LEU  QD1     0.00
+ 98 PHE  QE    100 LEU  QD2     3.74
+ 98 PHE  QE    100 LEU  QD1     0.00
+ 98 PHE  QE    134 VAL  QG1     3.10
+ 98 PHE  QE    134 VAL  QG2     0.00
+100 LEU  H     100 LEU  QD2     4.39
+100 LEU  H     100 LEU  QD1     0.00
+100 LEU  HA    100 LEU  QD2     4.27
+100 LEU  HA    100 LEU  QD1     0.00
+100 LEU  HB2   134 VAL  QG1     3.46
+100 LEU  HB2   134 VAL  QG2     0.00
+100 LEU  HB3   134 VAL  QG1     3.72
+100 LEU  HB3   134 VAL  QG2     0.00
+100 LEU  HG    134 VAL  QG1     4.16
+100 LEU  HG    134 VAL  QG2     0.00
+100 LEU  QD2   101 ILE  H       3.57
+100 LEU  QD1   101 ILE  H       0.00
+100 LEU  QD2   101 ILE  QG2     5.27
+100 LEU  QD1   101 ILE  QG2     0.00
+100 LEU  QD2   102 HIS  H       3.96
+100 LEU  QD1   102 HIS  H       0.00
+100 LEU  QD2   102 HIS  HB2     4.00
+100 LEU  QD1   102 HIS  HB2     0.00
+100 LEU  QD2   102 HIS  HB3     4.66
+100 LEU  QD1   102 HIS  HB3     0.00
+100 LEU  QD2   130 TRP  HB3     4.73
+100 LEU  QD1   130 TRP  HB3     0.00
+100 LEU  QD2   130 TRP  HD1     4.74
+100 LEU  QD1   130 TRP  HD1     0.00
+100 LEU  QD2   130 TRP  HE3     4.56
+100 LEU  QD1   130 TRP  HE3     0.00
+100 LEU  QD2   134 VAL  QG1     2.96
+100 LEU  QD2   134 VAL  QG2     0.00
+100 LEU  QD1   134 VAL  QG2     0.00
+100 LEU  QD1   134 VAL  QG1     0.00
+100 LEU  QD2   138 LEU  QD2     3.95
+100 LEU  QD1   138 LEU  QD2     0.00
+100 LEU  QD2   138 LEU  QD1     0.00
+100 LEU  QD1   138 LEU  QD1     0.00
+101 ILE  QG2   103 SER  QB      4.12
+103 SER  H     103 SER  QB      3.67
+103 SER  QB    104 GLY  H       3.34
+103 SER  QB    104 GLY  HA2     4.96
+110 GLU  H     111 VAL  QG1     5.15
+110 GLU  H     111 VAL  QG2     0.00
+110 GLU  QB    111 VAL  QG1     5.41
+110 GLU  QB    111 VAL  QG2     0.00
+111 VAL  H     111 VAL  QG1     3.48
+111 VAL  H     111 VAL  QG2     0.00
+111 VAL  QG1   112 ILE  HA      5.10
+111 VAL  QG2   112 ILE  HA      0.00
+111 VAL  QG1   118 LYS  HA      4.83
+111 VAL  QG2   118 LYS  HA      0.00
+111 VAL  QG1   119 SER  H       4.69
+111 VAL  QG2   119 SER  H       0.00
+111 VAL  QG1   119 SER  HA      4.43
+111 VAL  QG2   119 SER  HA      0.00
+111 VAL  QG1   122 VAL  HB      4.49
+111 VAL  QG2   122 VAL  HB      0.00
+111 VAL  QG1   122 VAL  QG1     4.51
+111 VAL  QG1   122 VAL  QG2     0.00
+111 VAL  QG2   122 VAL  QG2     0.00
+111 VAL  QG2   122 VAL  QG1     0.00
+112 ILE  HA    112 ILE  QG1     3.52
+112 ILE  QG1   115 ALA  H       4.52
+112 ILE  QG1   115 ALA  QB      3.83
+118 LYS  HA    118 LYS  QG      3.24
+118 LYS  QB    118 LYS  QD      3.09
+118 LYS  QB    119 SER  H       4.38
+118 LYS  QB    120 SER  H       4.35
+118 LYS  QB    121 VAL  H       3.59
+118 LYS  QB    121 VAL  HA      5.34
+118 LYS  QB    121 VAL  QG1     2.96
+118 LYS  QB    121 VAL  QG2     0.00
+118 LYS  QB    122 VAL  H       3.72
+118 LYS  QB    122 VAL  QG1     4.47
+118 LYS  QB    122 VAL  QG2     0.00
+118 LYS  QG    121 VAL  H       4.61
+118 LYS  QG    121 VAL  QG1     3.99
+118 LYS  QG    121 VAL  QG2     0.00
+119 SER  HA    122 VAL  QG1     4.31
+119 SER  HA    122 VAL  QG2     0.00
+119 SER  HA    123 ARG  QB      4.65
+120 SER  H     121 VAL  QG1     4.18
+120 SER  H     121 VAL  QG2     0.00
+120 SER  HA    121 VAL  QG1     5.19
+120 SER  HA    121 VAL  QG2     0.00
+121 VAL  H     121 VAL  QG1     2.96
+121 VAL  H     121 VAL  QG2     0.00
+121 VAL  H     122 VAL  QG1     4.45
+121 VAL  H     122 VAL  QG2     0.00
+121 VAL  HA    121 VAL  QG1     3.03
+121 VAL  HA    121 VAL  QG2     0.00
+121 VAL  QG1   122 VAL  H       3.05
+121 VAL  QG2   122 VAL  H       0.00
+121 VAL  QG1   123 ARG  H       4.34
+121 VAL  QG2   123 ARG  H       0.00
+121 VAL  QG1   125 LYS  HE2     4.74
+121 VAL  QG2   125 LYS  HE2     0.00
+122 VAL  H     122 VAL  QG1     2.94
+122 VAL  H     122 VAL  QG2     0.00
+122 VAL  QG2   125 LYS  QD      3.48
+122 VAL  QG1   125 LYS  QD      0.00
+122 VAL  QG1   125 LYS  HE3     3.88
+122 VAL  QG2   125 LYS  HE3     0.00
+122 VAL  QG1   126 MET  QB      4.07
+122 VAL  QG2   126 MET  QB      0.00
+122 VAL  QG2   126 MET  QG      3.63
+122 VAL  QG1   126 MET  QG      0.00
+123 ARG  H     123 ARG  QB      3.54
+124 GLY  QA    127 ASP  QB      4.19
+125 LYS  HA    127 ASP  QB      5.34
+125 LYS  HB3   126 MET  QG      4.87
+125 LYS  HE3   126 MET  QG      5.34
+126 MET  H     126 MET  QG      3.57
+126 MET  H     127 ASP  QB      5.34
+126 MET  QB    127 ASP  QB      5.17
+126 MET  QG    130 TRP  HD1     4.82
+127 ASP  H     127 ASP  QB      3.15
+127 ASP  H     128 GLY  QA      5.34
+127 ASP  QB    128 GLY  H       3.78
+127 ASP  QB    128 GLY  QA      4.38
+128 GLY  QA    131 THR  H       4.23
+130 TRP  HB2   134 VAL  QG1     5.30
+130 TRP  HB2   134 VAL  QG2     0.00
+130 TRP  HB3   134 VAL  QG1     4.36
+130 TRP  HB3   134 VAL  QG2     0.00
+130 TRP  HE3   134 VAL  QG1     3.79
+130 TRP  HE3   134 VAL  QG2     0.00
+130 TRP  HZ3   134 VAL  QG1     3.84
+130 TRP  HZ3   134 VAL  QG2     0.00
+130 TRP  HH2   134 VAL  QG1     5.13
+130 TRP  HH2   134 VAL  QG2     0.00
+132 GLY  QA    135 ASN  QB      4.51
+133 ILE  H     134 VAL  QG1     4.76
+133 ILE  H     134 VAL  QG2     0.00
+134 VAL  H     134 VAL  QG1     3.05
+134 VAL  H     134 VAL  QG2     0.00
+134 VAL  H     135 ASN  QB      4.60
+134 VAL  HA    134 VAL  QG1     2.95
+134 VAL  HA    134 VAL  QG2     0.00
+134 VAL  HA    138 LEU  QD2     3.83
+134 VAL  HA    138 LEU  QD1     0.00
+134 VAL  QG1   135 ASN  H       3.52
+134 VAL  QG2   135 ASN  H       0.00
+134 VAL  QG1   135 ASN  HA      4.32
+134 VAL  QG2   135 ASN  HA      0.00
+134 VAL  QG1   138 LEU  HG      3.79
+134 VAL  QG2   138 LEU  HG      0.00
+134 VAL  QG1   138 LEU  QD2     3.26
+134 VAL  QG2   138 LEU  QD2     0.00
+134 VAL  QG1   138 LEU  QD1     0.00
+134 VAL  QG2   138 LEU  QD1     0.00
+135 ASN  H     135 ASN  QB      3.06
+135 ASN  QB    136 GLU  H       3.59
+135 ASN  QB    136 GLU  HB3     4.61
+136 GLU  QG    137 ARG  QB      5.34
+136 GLU  QG    139 ARG  QD      5.34
+137 ARG  QB    140 LYS  H       5.26
+137 ARG  QB    141 ALA  QB      5.27
+137 ARG  QG    138 LEU  H       4.63
+137 ARG  QG    138 LEU  HA      5.34
+138 LEU  HA    138 LEU  QD2     3.07
+138 LEU  HA    138 LEU  QD1     0.00
+138 LEU  QD2   139 ARG  H       4.16
+138 LEU  QD1   139 ARG  H       0.00
+138 LEU  QD2   140 LYS  H       5.44
+138 LEU  QD1   140 LYS  H       0.00
+138 LEU  QD2   141 ALA  H       5.15
+138 LEU  QD1   141 ALA  H       0.00
+138 LEU  QD2   141 ALA  QB      3.63
+138 LEU  QD1   141 ALA  QB      0.00
+138 LEU  QD2   142 VAL  H       5.39
+138 LEU  QD1   142 VAL  H       0.00
+138 LEU  QD2   142 VAL  QG1     4.03
+138 LEU  QD1   142 VAL  QG1     0.00
+139 ARG  HA    139 ARG  QD      4.40
+139 ARG  QD    140 LYS  HA      4.64
+139 ARG  QD    143 GLU  HA      5.34
+139 ARG  QD    143 GLU  QG      4.30
+140 LYS  HA    140 LYS  QD      3.50
+140 LYS  QD    143 GLU  H       5.22
+140 LYS  QD    144 GLU  H       5.06
+140 LYS  QE    144 GLU  QB      4.22
